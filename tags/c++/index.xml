@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C&#43;&#43; on WILT</title>
-    <link>https://wilt.phme.it/tags/c&#43;&#43;/</link>
+    <link>http://wilt.phme.it/tags/c&#43;&#43;/</link>
     <description>Recent content in C&#43;&#43; on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2015 20:10:14 +0000</lastBuildDate><atom:link href="https://wilt.phme.it/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 May 2015 20:10:14 +0000</lastBuildDate><atom:link href="http://wilt.phme.it/tags/c++/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C# Lists and Dictionary</title>
-      <link>https://wilt.phme.it/2015/05/31/c-lists-and-dictionary/</link>
+      <link>http://wilt.phme.it/2015/05/31/c-lists-and-dictionary/</link>
       <pubDate>Sun, 31 May 2015 20:10:14 +0000</pubDate>
       
-      <guid>https://wilt.phme.it/2015/05/31/c-lists-and-dictionary/</guid>
+      <guid>http://wilt.phme.it/2015/05/31/c-lists-and-dictionary/</guid>
       <description>In C# there are several key differences to C++. Microsoft Website spells them all: https://msdn.microsoft.com/en-us/magazine/cc301520.aspx
 Garbage collector instead of deconstructors providing a different approach to micromenagment of memory and lists, jagged arrays and dynamic memory allocation are already available into the language. It supports also negative index to counting from the last element, similarly to Python.
 About lists instead of the usual self-made textbook-example class, there are specific embedded classes for Lists and Dictionaries.</description>
@@ -20,10 +20,10 @@ About lists instead of the usual self-made textbook-example class, there are spe
     
     <item>
       <title>The Practice of Programming</title>
-      <link>https://wilt.phme.it/2015/05/18/the-practice-of-programming/</link>
+      <link>http://wilt.phme.it/2015/05/18/the-practice-of-programming/</link>
       <pubDate>Mon, 18 May 2015 21:34:32 +0000</pubDate>
       
-      <guid>https://wilt.phme.it/2015/05/18/the-practice-of-programming/</guid>
+      <guid>http://wilt.phme.it/2015/05/18/the-practice-of-programming/</guid>
       <description>&lt;p&gt;I started reading &amp;ldquo;The Practice of Programming&amp;rdquo; by Kernigan and Pike.&lt;/p&gt;
 &lt;p&gt;The book hinges on the concepts of &lt;em&gt;simplicity&lt;/em&gt;, &lt;em&gt;clarity&lt;/em&gt; and &lt;em&gt;generality&lt;/em&gt; as foundation of a good code. Eventually &lt;em&gt;automation&lt;/em&gt; can bring something to the table generating code from algorithms.&lt;/p&gt;
 &lt;p&gt;It starts by the usual &amp;ldquo;obvious&amp;rdquo; remarks about style:&lt;/p&gt;</description>

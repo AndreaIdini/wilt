@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>web on WILT</title>
-    <link>https://wilt.phme.it/categories/web/</link>
+    <link>http://wilt.phme.it/categories/web/</link>
     <description>Recent content in web on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Mar 2014 21:20:48 +0000</lastBuildDate><atom:link href="https://wilt.phme.it/categories/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Mar 2014 21:20:48 +0000</lastBuildDate><atom:link href="http://wilt.phme.it/categories/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The website craft 101</title>
-      <link>https://wilt.phme.it/2014/03/25/the-power-of-dns/</link>
+      <link>http://wilt.phme.it/2014/03/25/the-power-of-dns/</link>
       <pubDate>Tue, 25 Mar 2014 21:20:48 +0000</pubDate>
       
-      <guid>https://wilt.phme.it/2014/03/25/the-power-of-dns/</guid>
+      <guid>http://wilt.phme.it/2014/03/25/the-power-of-dns/</guid>
       <description>When I kicked on WILT I learned some deal regarding the craft of the website productions.
 First of all I struggled with the DNS. I first of all found that exist two type of DNS configurations A and CNAME.
  A links to an IP-address, in other words the server IP. CNAME links to another http address, connecting via DNS for example http://phme.it to http://w__ww.phme.it.  Then I decided to set up the WordPress network in subdirectory instead of subdomain, and I struggled with the infamous .</description>
@@ -20,10 +20,10 @@ First of all I struggled with the DNS. I first of all found that exist two type 
     
     <item>
       <title>Do not trust Google Analytics</title>
-      <link>https://wilt.phme.it/2014/03/15/do-not-trust-google-analytics/</link>
+      <link>http://wilt.phme.it/2014/03/15/do-not-trust-google-analytics/</link>
       <pubDate>Sat, 15 Mar 2014 08:41:41 +0000</pubDate>
       
-      <guid>https://wilt.phme.it/2014/03/15/do-not-trust-google-analytics/</guid>
+      <guid>http://wilt.phme.it/2014/03/15/do-not-trust-google-analytics/</guid>
       <description>I learned that Google needs some hours in order to track your website in Analytics.
 Even if in the &amp;ldquo;Tracking Code&amp;rdquo; section it says &amp;ldquo;Tracking Code is not Working&amp;rdquo; reporting a check performed in a given minute, actually sometimes you just have to wait some hours to start &amp;ldquo;Receiving Data&amp;rdquo; without furthermore tinkering with your web code.
 So just check the source code of your page, and if the Google Analytics snippet is included just give Google the time to update the tracking, without trusting too much the checking section.</description>

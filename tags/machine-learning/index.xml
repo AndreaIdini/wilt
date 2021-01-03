@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine learning on WILT</title>
-    <link>https://wilt.phme.it/tags/machine-learning/</link>
+    <link>http://wilt.phme.it/tags/machine-learning/</link>
     <description>Recent content in machine learning on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Feb 2017 18:12:41 +0000</lastBuildDate><atom:link href="https://wilt.phme.it/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2017 18:12:41 +0000</lastBuildDate><atom:link href="http://wilt.phme.it/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The new prodigy behind Google translate</title>
-      <link>https://wilt.phme.it/2017/02/13/the-new-prodigy-behind-google-translate/</link>
+      <link>http://wilt.phme.it/2017/02/13/the-new-prodigy-behind-google-translate/</link>
       <pubDate>Mon, 13 Feb 2017 18:12:41 +0000</pubDate>
       
-      <guid>https://wilt.phme.it/2017/02/13/the-new-prodigy-behind-google-translate/</guid>
+      <guid>http://wilt.phme.it/2017/02/13/the-new-prodigy-behind-google-translate/</guid>
       <description>I read a lot of misconceptions this morning related to this article regarding Google Translate. Is not properly fresh news but this morning in my telegram group @scienza, this other popularization article has been posted that completely misunderstood the premises of the original academic article (also the so-called informed comments are not really , so I decided to try to keep the record straight and offer a question.
 In the article the approach is referred as a multitasking learning framework</description>
     </item>
     
     <item>
       <title>The semantic of Machine Learning</title>
-      <link>https://wilt.phme.it/2014/03/23/the-semantic-of-machine-learning/</link>
+      <link>http://wilt.phme.it/2014/03/23/the-semantic-of-machine-learning/</link>
       <pubDate>Sat, 22 Mar 2014 23:38:47 +0000</pubDate>
       
-      <guid>https://wilt.phme.it/2014/03/23/the-semantic-of-machine-learning/</guid>
+      <guid>http://wilt.phme.it/2014/03/23/the-semantic-of-machine-learning/</guid>
       <description>Today I learned again that most things in life are a matter of semantics&amp;hellip; After some online lectures in Machine Learning techniques I discovered that what I call &amp;ldquo;Ordinary Least Squares&amp;rdquo; is generalized as a &amp;ldquo;cost function&amp;rdquo; and a simplified version of the &amp;ldquo;Newton Method&amp;rdquo; is refferred to as &amp;ldquo;Gradient Descent&amp;rdquo;.
 So, basically, the core of a supervised learned algorithm seems to be the choose of an appropriate &amp;ldquo;cost function&amp;rdquo; and the application of the most effective minimization algorithm.</description>
     </item>
