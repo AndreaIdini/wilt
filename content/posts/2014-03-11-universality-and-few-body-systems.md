@@ -14,7 +14,7 @@ tags:
 
 ---
 <div id="attachment_48" style="width: 310px" class="wp-caption alignleft">
-  <a href="/wilt/wp-content/uploads/sites/4/2014/03/604px-Borromean_Rings_Illusion.png" rel="lightbox[45]"><img aria-describedby="caption-attachment-48" class="size-medium wp-image-48" alt="The three Borromean rings." src="/wilt/wp-content/uploads/sites/4/2014/03/604px-Borromean_Rings_Illusion-300x297.png" width="300" height="297" srcset="http://www.phme.it/wilt/wp-content/uploads/sites/4/2014/03/604px-Borromean_Rings_Illusion-300x297.png 300w, http://www.phme.it/wilt/wp-content/uploads/sites/4/2014/03/604px-Borromean_Rings_Illusion-150x150.png 150w, http://www.phme.it/wilt/wp-content/uploads/sites/4/2014/03/604px-Borromean_Rings_Illusion-262x260.png 262w, http://www.phme.it/wilt/wp-content/uploads/sites/4/2014/03/604px-Borromean_Rings_Illusion.png 604w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="/wp-content/uploads/sites/4/2014/03/604px-Borromean_Rings_Illusion.png" rel="lightbox[45]"><img aria-describedby="caption-attachment-48" class="size-medium wp-image-48" alt="The three Borromean rings." src="/wp-content/uploads/sites/4/2014/03/604px-Borromean_Rings_Illusion-300x297.png" width="300" height="297" srcset="/wp-content/uploads/sites/4/2014/03/604px-Borromean_Rings_Illusion-300x297.png 300w, /wp-content/uploads/sites/4/2014/03/604px-Borromean_Rings_Illusion-150x150.png 150w, /wp-content/uploads/sites/4/2014/03/604px-Borromean_Rings_Illusion-262x260.png 262w, /wp-content/uploads/sites/4/2014/03/604px-Borromean_Rings_Illusion.png 604w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-48" class="wp-caption-text">
     The three Borromean rings.

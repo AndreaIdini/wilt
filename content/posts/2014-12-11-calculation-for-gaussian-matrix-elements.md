@@ -18,4 +18,4 @@ Detailed calculation of two-body matrix elements for a cooper pair (coupled to J
 [Gaussian][2]
 
  [1]: http://www.phme.it/wilt/2014/11/29/example-of-calculation/%20
- [2]: http://www.phme.it/wilt/wp-content/uploads/sites/4/2014/12/Gaussian.pdf
+ [2]: http://www.phme.it/wp-content/uploads/sites/4/2014/12/Gaussian.pdf
