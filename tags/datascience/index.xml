@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datascience on WILT</title>
+    <link>http://andreaidini.github.io/wilt/tags/datascience/</link>
+    <description>Recent content in datascience on WILT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jun 2017 23:30:17 +0000</lastBuildDate><atom:link href="http://andreaidini.github.io/wilt/tags/datascience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching computer to read with linear regression</title>
+      <link>http://andreaidini.github.io/wilt/2017/06/23/teaching-computer-to-read-with-linear-regression/</link>
+      <pubDate>Thu, 22 Jun 2017 23:30:17 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/2017/06/23/teaching-computer-to-read-with-linear-regression/</guid>
+      <description>In the first part of the file tutorial2.py of repository Tensorflow in my github, you have the commented version of the MINST tutorial for experts in Tensorflow.
+Tensorflow is an opensource API for several languages that act as frontend for a machine learning backend that is quite flexible.
+What I was surprised for is the result of this first small exercise, that is: you take the pixel of the MINST package for character recognition traning.</description>
+    </item>
+    
+    <item>
+      <title>Dynamic mapping with Shapefiles and python</title>
+      <link>http://andreaidini.github.io/wilt/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</link>
+      <pubDate>Sat, 06 May 2017 15:50:55 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</guid>
+      <description>In a two days coding challenge over workers day holiday, I decided to play with maps as means to plot information. What I decided to are use are the widely available shapefiles and python matplotlib packages, using mainly pandas and numpy to analyse data.
+You can find everything in this git repository.
+First of all you can start familiarising with shapefiles by plotting the pure patches, as in function mP in mapPlot.</description>
+    </item>
+    
+  </channel>
+</rss>

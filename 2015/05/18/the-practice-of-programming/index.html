@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>The Practice of Programming :: WILT</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="I started reading &amp;ldquo;The Practice of Programming&amp;rdquo; by Kernigan and Pike.
+The book hinges on the concepts of simplicity, clarity and generality as foundation of a good code. Eventually automation can bring something to the table generating code from algorithms.
+It starts by the usual &amp;ldquo;obvious&amp;rdquo; remarks about style:
+" />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="http://andreaidini.github.io/wilt/2015/05/18/the-practice-of-programming/" />
+
+
+
+
+<link rel="stylesheet" href="http://andreaidini.github.io/wilt/assets/style.css">
+
+  <link rel="stylesheet" href="http://andreaidini.github.io/wilt/assets/green.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="http://andreaidini.github.io/wilt/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="http://andreaidini.github.io/wilt/">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The Practice of Programming">
+<meta property="og:description" content="I started reading &amp;ldquo;The Practice of Programming&amp;rdquo; by Kernigan and Pike.
+The book hinges on the concepts of simplicity, clarity and generality as foundation of a good code. Eventually automation can bring something to the table generating code from algorithms.
+It starts by the usual &amp;ldquo;obvious&amp;rdquo; remarks about style:
+" />
+<meta property="og:url" content="http://andreaidini.github.io/wilt/2015/05/18/the-practice-of-programming/" />
+<meta property="og:site_name" content="WILT" />
+
+  
+    <meta property="og:image" content="http://andreaidini.github.io/wilt/">
+  
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+  <meta property="article:section" content="Coding" />
+
+
+  <meta property="article:published_time" content="2015-05-18 21:34:32 &#43;0000 &#43;0000" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="green">
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="http://andreaidini.github.io/wilt/">
+  <div class="logo">
+    Terminal
+  </div>
+</a>
+
+    </div>
+    
+  </div>
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="http://andreaidini.github.io/wilt/2015/05/18/the-practice-of-programming/">The Practice of Programming</a></h1>
+  <div class="post-meta">
+    
+      <span class="post-date">
+        2015-05-18 
+      </span>
+    
+    
+    <span class="post-author">:: Andrea Idini</span>
+    
+  </div>
+
+  
+  <span class="post-tags">
+    
+    #<a href="http://andreaidini.github.io/wilt/tags/c&#43;&#43;/">C&#43;&#43;</a>&nbsp;
+    
+    #<a href="http://andreaidini.github.io/wilt/tags/practice/">practice</a>&nbsp;
+    
+    #<a href="http://andreaidini.github.io/wilt/tags/programming/">programming</a>&nbsp;
+    
+  </span>
+  
+
+  
+
+  
+
+  <div class="post-content"><div>
+        <p>I started reading &ldquo;The Practice of Programming&rdquo; by Kernigan and Pike.</p>
+<p>The book hinges on the concepts of <em>simplicity</em>, <em>clarity</em> and <em>generality</em> as foundation of a good code. Eventually <em>automation</em> can bring something to the table generating code from algorithms.</p>
+<p>It starts by the usual &ldquo;obvious&rdquo; remarks about style:</p>
+<ul>
+<li>consistency and standardization in the definition of variables: use nice names, short for local and long and descriptive for global variables and constants (never use bare numbers but define constants!);
+<ul>
+<li>minimize the usage of variables and definitions: e.g. use the length of vector intrinsic function to define the loops, instead of using the defined constant <em>(even though would not this make harder to spot and debug allocation issues and segfault?)</em>;</li>
+<li>uses of idioms, that is the standard syntax, especially for loops and ifs; e.g.<br>
+<code>for(i=0;i&lt;n;array[i]=0);</code><br>
+can work for an initialization, but<br>
+<code>for(i=0;i&lt;n;i++)&lt;br /&gt; array[i]=0;</code><br>
+is more understandable both for a fluent and a beginner code reader;</li>
+<li>proper indentation;</li>
+<li>descriptive and consistent comments, don&rsquo;t state the obvious, maybe start to use doxygen ready code: &ldquo;when the comment outweighs the code, the code probably needs fixing&rdquo;.</li>
+</ul>
+</li>
+</ul>
+<p>In second chapter goes on describing algorithms, the role of arrays as cheap storage of tabular sequential data and starts a bit of fun with the classic <strong>Quicksort</strong> and <strong>Bisection</strong> search.</p>
+<p>Unfortunately sticking with C++ and Java arrays are defined with fixed size (eventually allocatable at big memory and computational expense, O(n^2) in case of growing one element at time), and thus the big difference with Lists as pointer linked elements. The book is also not very clear on the syntax of the list (against the modern C++ idiom, as own advise). So following the good advice in the book, instead of writing down poor code, I decided to write down my own notes on <strong>Lists</strong> in C++ for future reference.</p>
+<p>Lists in C++ are called by defining a pointer to a structure Nametype, as<br>
+<code>Nametype +next</code><br>
+thus an element of the list is defined as<br>
+<code>struct generalList{&lt;br /&gt; ... //whatever content&lt;br /&gt; generalList *next;&lt;br /&gt; }</code><br>
+where the asterisk refer to a <a href="http://www.cplusplus.com/doc/tutorial/pointers/">pointer in C++</a>. Then you can initialize<br>
+<code>&lt;br /&gt; generalList *firstElement; //create a pointer to a memory area</code></p>
+<p>firstElement = new generalList; //prepare a memory area of due size</p>
+<p>firstElement-&gt;&hellip; = &hellip; ; //fills the content.<br>
+firstElement-&gt;next= NULL; //the first element of the list does not point to anything</p>
+<p>//Eventually this can go on<br>
+generalList *lastElement;</p>
+<p>And then at choice<br>
+<code>&lt;br /&gt; //---- this piece follows the list head to tail pointer by pointer ----//&lt;br /&gt; lastElement = firstElement&lt;br /&gt; if ( lastElement != 0 ) {&lt;br /&gt; while ( lastElement -&gt;next != 0)&lt;br /&gt; lastElement = lastElement -&gt;next;&lt;br /&gt; }&lt;br /&gt; //--------------------------------//&lt;br /&gt; lastElement-&gt;next= new generalList; //create one last element, to the tail of the list, points to it&lt;br /&gt; lastElement = lastElement-&gt;next //go to it&lt;br /&gt;</code><br>
+<code>&lt;br /&gt; lastElement = new generalList;&lt;br /&gt; lastElement -&gt;next = NULL;&lt;br /&gt; firstElement-&gt;next = lastElement; //first element point to the last created, that go at the front of the list.&lt;br /&gt;</code><br>
+and finally once positioned don&rsquo;t forget to fill it up<br>
+<code>lastElement-&gt;... = ... ;</code></p>
+<p>Lists can have a desired number of pointers, most commonly two (<strong><em>Doubly-linked lists</em></strong>), one for the next and one for the previous element of the list vastly facilitating and speeding up search and sorting (and basically making them glorified arrays).</p>
+<p>A <em><strong>Tree</strong></em> is another particular type of list, defined as</p>
+<blockquote>
+<p>a hierarchical data structure that stores a set of items in which each item has a value, may point to zero or more others, and is pointed to by exactly one other.</p>
+</blockquote>
+      </div></div>
+
+  
+  
+<div class="pagination">
+    <div class="pagination__title">
+        <span class="pagination__title-h"></span>
+        <hr />
+    </div>
+    <div class="pagination__buttons">
+        
+        <span class="button previous">
+            <a href="http://andreaidini.github.io/wilt/2015/05/26/fun-with-conditional-probability/">
+                <span class="button__icon">←</span>
+                <span class="button__text">Fun with conditional probability</span>
+            </a>
+        </span>
+        
+        
+        <span class="button next">
+            <a href="http://andreaidini.github.io/wilt/2015/05/10/value-on-expected-return/">
+                <span class="button__text">Value at Risk on expected return</span>
+                <span class="button__icon">→</span>
+            </a>
+        </span>
+        
+    </div>
+</div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2021 Powered by <a href="http://gohugo.io">Hugo</a></span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="http://andreaidini.github.io/wilt/assets/main.js"></script>
+<script src="http://andreaidini.github.io/wilt/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

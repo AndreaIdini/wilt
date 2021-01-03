@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nuclear physics on WILT</title>
+    <link>http://andreaidini.github.io/wilt/tags/nuclear-physics/</link>
+    <description>Recent content in nuclear physics on WILT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jan 2017 17:58:14 +0000</lastBuildDate><atom:link href="http://andreaidini.github.io/wilt/tags/nuclear-physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The magical mystery world of nuclear reactions exposed.</title>
+      <link>http://andreaidini.github.io/wilt/2017/01/19/226/</link>
+      <pubDate>Thu, 19 Jan 2017 17:58:14 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/2017/01/19/226/</guid>
+      <description>Nuclear wave function in function of  for the proton  state, obtained by diagonalizing the self energy in the exact continuum used above. The first eigenvalue at -23.97 MeV (solid red line) is compared by the corresponding  harmonic oscillator state multiplied by the square root of the spectroscopic factor (dashed red line), the second eigenvalue at -2.85 MeV (solid blue line) is similarly compared with  harmonic oscillator state (dashed blue line).</description>
+    </item>
+    
+    <item>
+      <title>Github returns</title>
+      <link>http://andreaidini.github.io/wilt/2017/01/18/github-returns/</link>
+      <pubDate>Wed, 18 Jan 2017 22:37:11 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/2017/01/18/github-returns/</guid>
+      <description>I am setting up and using the public github repository after many years. I decided to start releasing some old projects publicly, since seems apparent I will never have time to write anymore papers, nor to polish the code.
+Eventually, at least for these little &amp;ldquo;didactic&amp;rdquo; subprojects, I will start to do little explanatory videos, or blogposts, instead of articles just to save times and make the process more fluid.</description>
+    </item>
+    
+    <item>
+      <title>Calculation of Skyrme Landau Parameters</title>
+      <link>http://andreaidini.github.io/wilt/2015/05/29/calculation-of-skyrme-landau-parameters/</link>
+      <pubDate>Fri, 29 May 2015 14:35:23 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/2015/05/29/calculation-of-skyrme-landau-parameters/</guid>
+      <description>Calculation of Landau Parameters for Skyrme zero-range interaction and a hint to Gogny finite-range, starting from the definition of the particle-hole interaction.
+Remember kids:  is not the relative momentum, but the momentum in the relative space!
+Landau Parameters</description>
+    </item>
+    
+    <item>
+      <title>Theorical ArXiv of Cook and Rossi</title>
+      <link>http://andreaidini.github.io/wilt/2015/04/13/103/</link>
+      <pubDate>Mon, 13 Apr 2015 08:17:52 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/2015/04/13/103/</guid>
+      <description>&lt;p&gt;There are several aspects of the &lt;a href=&#34;http://arxiv.org/abs/1504.01261&#34;&gt;paper of Norman Cook and Andrea Rossi&lt;/a&gt; that scream &amp;ldquo;amateurish&amp;rdquo;: from layout to typos (hoping they&amp;rsquo;re so), from historical concepts to bibliography, I&amp;rsquo;m not certainly the only one to have noted them.&lt;/p&gt;
+&lt;p&gt;But is the scientific thesis to be flawed, even without considering the disputed history of E-cat and LENR and possible prejudices one can have on the author and its reasons.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Calculation for Gaussian Matrix Elements</title>
+      <link>http://andreaidini.github.io/wilt/2014/12/11/calculation-for-gaussian-matrix-elements/</link>
+      <pubDate>Thu, 11 Dec 2014 13:26:20 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/2014/12/11/calculation-for-gaussian-matrix-elements/</guid>
+      <description>Detailed calculation of two-body matrix elements for a cooper pair (coupled to J=0, T=0), following the previous post but for the case of a Gaussian interaction between the members of the Cooper pair.
+Gaussian</description>
+    </item>
+    
+    <item>
+      <title>Example of Calculation</title>
+      <link>http://andreaidini.github.io/wilt/2014/11/29/example-of-calculation/</link>
+      <pubDate>Sat, 29 Nov 2014 09:50:14 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/2014/11/29/example-of-calculation/</guid>
+      <description>Example of careful two-body contact interaction calculation, for Cooper pairs.
+Two body contact skyrme analytical calculation</description>
+    </item>
+    
+    <item>
+      <title>Beta decay logft</title>
+      <link>http://andreaidini.github.io/wilt/2014/08/06/beta-decay-logft/</link>
+      <pubDate>Wed, 06 Aug 2014 14:33:09 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/2014/08/06/beta-decay-logft/</guid>
+      <description>The comparative half life ft is useful to compare the strength of the  and electron-capture processes over different nuclei. -decay half lives can span several orders of magnitude, from fraction of seconds to thousands of time the age of the universe. Some of these striking differences are due to relatively trivial energetic conditions, but the more interesting from a nuclear structure point of view are due to the wavefunction superposition and the angular momentum coupling.</description>
+    </item>
+    
+    <item>
+      <title>The mistery of Nature&#39;s sons</title>
+      <link>http://andreaidini.github.io/wilt/2014/06/11/the-mistery-of/</link>
+      <pubDate>Wed, 11 Jun 2014 15:57:24 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/2014/06/11/the-mistery-of/</guid>
+      <description>Ta-180 is the rarest isotope of Nature&amp;rsquo;s rarest element. It exists only in an a long-lived (10^15y half life) isomer (Jpi=9-; E=75 keV). Potential s-process production path is easy to point out, but the survival of this fragile piece of nature at finite temperature is unlikely&amp;hellip;
+The mysteries of strange Nature&amp;rsquo;s sons can be investigated with a combination of the thermodynamic of s-process sites, p-process and neutrino nucleosynthesis.</description>
+    </item>
+    
+    <item>
+      <title>Universality and few-body systems</title>
+      <link>http://andreaidini.github.io/wilt/2014/03/11/universality-and-few-body-systems/</link>
+      <pubDate>Tue, 11 Mar 2014 15:38:15 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/2014/03/11/universality-and-few-body-systems/</guid>
+      <description>The three Borromean rings.  There are some properties of few-body systems that are &amp;ldquo;Universal&amp;rdquo;, so shared between all few-body systems that feel an attractive interaction (with certain boundary properties for defining eventual spin-orbit and isospin).
+An example of this behavior are the Efimov states of three-body systems: when an interaction loosely bound two bodies, the three-body system have a precise spectrum of excitation. This spectrum is observed in three nucleons systems like Helium-3 and Triton, since the two-body system, the deuteron, is loosely bound (for nuclear scales).</description>
+    </item>
+    
+    <item>
+      <title>Sterile neutrinos give birth to new Physics</title>
+      <link>http://andreaidini.github.io/wilt/2014/03/05/sterile-neutrinos-give-birth-to-new-physics/</link>
+      <pubDate>Wed, 05 Mar 2014 18:19:12 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/2014/03/05/sterile-neutrinos-give-birth-to-new-physics/</guid>
+      <description>&lt;p&gt;Today I learned something more about sterile neutrinos, and &lt;a href=&#34;http://www.newscientist.com/article/dn25113-fresh-hint-of-dark-matter-seen-in-neutrino-search.html#.UxdcrV2PI2j&#34;&gt;the latest advancement to the quest of finding them&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

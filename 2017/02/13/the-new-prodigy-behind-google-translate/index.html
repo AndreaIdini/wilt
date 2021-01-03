@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>The new prodigy behind Google translate :: WILT</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="I read a lot of misconceptions this morning related to this article regarding Google Translate. Is not properly fresh news but this morning in my telegram group @scienza, this other popularization article has been posted that completely misunderstood the premises of the original academic article (also the so-called informed comments are not really , so I decided to try to keep the record straight and offer a question.
+In the article the approach is referred as a multitasking learning framework" />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="http://andreaidini.github.io/wilt/2017/02/13/the-new-prodigy-behind-google-translate/" />
+
+
+
+
+<link rel="stylesheet" href="http://andreaidini.github.io/wilt/assets/style.css">
+
+  <link rel="stylesheet" href="http://andreaidini.github.io/wilt/assets/green.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="http://andreaidini.github.io/wilt/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="http://andreaidini.github.io/wilt/">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The new prodigy behind Google translate">
+<meta property="og:description" content="I read a lot of misconceptions this morning related to this article regarding Google Translate. Is not properly fresh news but this morning in my telegram group @scienza, this other popularization article has been posted that completely misunderstood the premises of the original academic article (also the so-called informed comments are not really , so I decided to try to keep the record straight and offer a question.
+In the article the approach is referred as a multitasking learning framework" />
+<meta property="og:url" content="http://andreaidini.github.io/wilt/2017/02/13/the-new-prodigy-behind-google-translate/" />
+<meta property="og:site_name" content="WILT" />
+
+  
+    <meta property="og:image" content="http://andreaidini.github.io/wilt/">
+  
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+  <meta property="article:section" content="Informatics" />
+
+  <meta property="article:section" content="Science" />
+
+  <meta property="article:section" content="Technology" />
+
+
+  <meta property="article:published_time" content="2017-02-13 18:12:41 &#43;0000 &#43;0000" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="green">
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="http://andreaidini.github.io/wilt/">
+  <div class="logo">
+    Terminal
+  </div>
+</a>
+
+    </div>
+    
+  </div>
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="http://andreaidini.github.io/wilt/2017/02/13/the-new-prodigy-behind-google-translate/">The new prodigy behind Google translate</a></h1>
+  <div class="post-meta">
+    
+      <span class="post-date">
+        2017-02-13 
+      </span>
+    
+    
+    <span class="post-author">:: Andrea Idini</span>
+    
+  </div>
+
+  
+  <span class="post-tags">
+    
+    #<a href="http://andreaidini.github.io/wilt/tags/machine-learning/">machine learning</a>&nbsp;
+    
+    #<a href="http://andreaidini.github.io/wilt/tags/programming/">programming</a>&nbsp;
+    
+  </span>
+  
+
+  
+
+  
+
+  <div class="post-content"><div>
+        <p>I read a lot of misconceptions this morning related to <a href="https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html">this article</a> regarding Google Translate.  Is not properly fresh news but this morning in my telegram group @scienza, <a href="https://medium.freecodecamp.com/the-mind-blowing-ai-announcement-from-google-that-you-probably-missed-2ffd31334805#.vuyuaxt0e">this other popularization article</a> has been posted that completely misunderstood the premises of <a href="https://arxiv.org/abs/1611.04558">the original academic article</a> (also the so-called informed comments are not really , so I decided to try to keep the record straight and offer a question.</p>
+<p>In the article the approach is referred as a multitasking learning framework</p>
+<blockquote>
+<p>Our approach is related to the multitask learning framework <a href="https://en.wikipedia.org/wiki/BLEU">4</a>. Despite its promise, this framework<br>
+has seen limited practical success in real world applications. In speech recognition, there have been many<br>
+successful reports of modeling multiple languages using a single model (see [17] for an extensive reference and<br>
+references therein). Multilingual language processing has also shown to be successful in domains other than<br>
+translation [9, 23].</p>
+</blockquote>
+<p>where a neural network (NN) is trained on several tasks simply by implementing extra tokens (in this case the languages) in the input and ground truth layers. The NN will learn all the designated languages simultaneously by associating phrases with ground truth respect to designated linguistic points (<a href="https://en.wikipedia.org/wiki/BLEU">BLEU scores</a>) for the whole network and not disjunctly by direct correlation of two languages. In a sense, it probes the off diagonal degrees of freedom of the NN.</p>
+<p>What a lot of people then started fantasising a little bit too much about is the &ldquo;interlingua&rdquo; process. My guy referred to it even as to a bytecode correspondence between languages that would be unfeasible and would defy too much the purpose of this NN: this has been tried to re-code as little as possible of the original _Translate _algorithm (that already includes all the semantic, glottology&hellip;etc&hellip; work of Google&rsquo;s researchers and engineers), and an eventual bytecode would be not flexible and would require a complete overhaul of the code!</p>
+<p>What Google Researchers have seen in the NN, is that the same phrase clusterize in different languages according to a specific metric: <a href="https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding">t-distributed stochastic neighbor embedding</a>, which is a sophisticated projection which reduces dimensionality while preserving pairwise distances (thus creating a low-dimensional metric space).</p>
+<p>I wonder: what if I change metric, would I be able to clusterize, according to another metric, the languages?</p>
+
+      </div></div>
+
+  
+  
+<div class="pagination">
+    <div class="pagination__title">
+        <span class="pagination__title-h"></span>
+        <hr />
+    </div>
+    <div class="pagination__buttons">
+        
+        <span class="button previous">
+            <a href="http://andreaidini.github.io/wilt/2017/02/18/generational-clash/">
+                <span class="button__icon">←</span>
+                <span class="button__text">Generational clash</span>
+            </a>
+        </span>
+        
+        
+        <span class="button next">
+            <a href="http://andreaidini.github.io/wilt/2017/01/30/cp-symmetry-violation/">
+                <span class="button__text">CP Symmetry violation</span>
+                <span class="button__icon">→</span>
+            </a>
+        </span>
+        
+    </div>
+</div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2021 Powered by <a href="http://gohugo.io">Hugo</a></span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="http://andreaidini.github.io/wilt/assets/main.js"></script>
+<script src="http://andreaidini.github.io/wilt/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

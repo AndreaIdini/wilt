@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Teaching computer to read with linear regression :: WILT</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="In the first part of the file tutorial2.py of repository Tensorflow in my github, you have the commented version of the MINST tutorial for experts in Tensorflow.
+Tensorflow is an opensource API for several languages that act as frontend for a machine learning backend that is quite flexible.
+What I was surprised for is the result of this first small exercise, that is: you take the pixel of the MINST package for character recognition traning." />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="http://andreaidini.github.io/wilt/2017/06/23/teaching-computer-to-read-with-linear-regression/" />
+
+
+
+
+<link rel="stylesheet" href="http://andreaidini.github.io/wilt/assets/style.css">
+
+  <link rel="stylesheet" href="http://andreaidini.github.io/wilt/assets/green.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="http://andreaidini.github.io/wilt/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="http://andreaidini.github.io/wilt/">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Teaching computer to read with linear regression">
+<meta property="og:description" content="In the first part of the file tutorial2.py of repository Tensorflow in my github, you have the commented version of the MINST tutorial for experts in Tensorflow.
+Tensorflow is an opensource API for several languages that act as frontend for a machine learning backend that is quite flexible.
+What I was surprised for is the result of this first small exercise, that is: you take the pixel of the MINST package for character recognition traning." />
+<meta property="og:url" content="http://andreaidini.github.io/wilt/2017/06/23/teaching-computer-to-read-with-linear-regression/" />
+<meta property="og:site_name" content="WILT" />
+
+  
+    <meta property="og:image" content="http://andreaidini.github.io/wilt/">
+  
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+  <meta property="article:section" content="Coding" />
+
+  <meta property="article:section" content="Informatics" />
+
+  <meta property="article:section" content="Science" />
+
+  <meta property="article:section" content="Technology" />
+
+
+  <meta property="article:published_time" content="2017-06-22 23:30:17 &#43;0000 &#43;0000" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="green">
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="http://andreaidini.github.io/wilt/">
+  <div class="logo">
+    Terminal
+  </div>
+</a>
+
+    </div>
+    
+  </div>
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="http://andreaidini.github.io/wilt/2017/06/23/teaching-computer-to-read-with-linear-regression/">Teaching computer to read with linear regression</a></h1>
+  <div class="post-meta">
+    
+      <span class="post-date">
+        2017-06-22 
+      </span>
+    
+    
+    <span class="post-author">:: Andrea Idini</span>
+    
+  </div>
+
+  
+  <span class="post-tags">
+    
+    #<a href="http://andreaidini.github.io/wilt/tags/coding/">coding</a>&nbsp;
+    
+    #<a href="http://andreaidini.github.io/wilt/tags/datascience/">datascience</a>&nbsp;
+    
+    #<a href="http://andreaidini.github.io/wilt/tags/github/">github</a>&nbsp;
+    
+    #<a href="http://andreaidini.github.io/wilt/tags/linear-regression/">linear regression</a>&nbsp;
+    
+  </span>
+  
+
+  
+
+  
+
+  <div class="post-content"><div>
+        <p>In the first part of the file tutorial2.py of <a href="https://github.com/AndreaIdini/Tensorflow">repository Tensorflow in my github</a>, you have the commented version of the <a href="https://www.tensorflow.org/versions/r1.1/get_started/mnist/pros">MINST tutorial for experts</a> in Tensorflow.</p>
+<p>Tensorflow is an opensource API for several languages that act as frontend for a machine learning backend that is quite flexible.</p>
+<p>What I was surprised for is the result of this first small exercise, that is: you take the pixel of the MINST package for character recognition traning. You flatten them. A packet of 784 pixel serves as an ordinate of your linear regression, and the numbers from 0 to 9 (actually 10, than you flat it) as abscissa of possible values contained in the pixel packet.</p>
+<p>A linear regression fitting the possible outcomes, even with a simple ordinary least squares and a fit a first order degree, results in an accuracy around 92%.</p>
+<p>True, is terrible and embarrassing (as Google points out). After all, there only 10 options, missing 1 over 10 is not a great deal, but think about the feature here: image recognition with a linear regression!</p>
+<p>I also made <a href="https://www.youtube.com/watch?v=ndweSdyhGKo">a live youtube video about it (in Italian)</a>, that received decent following (add 100 views).</p>
+<p>_Now with the dubious part: _It might be this condition what makes neural network possible and feasible?</p>
+<p>Now I&rsquo;m trying to go a step further with nuclear mass models, and while image recognition are all fine and dandy, even a simple mass formula has several fractional exponents and a polynomial expansion to take into account. Fitting a non local density functional is something orders of magnitude more complicated!</p>
+<p>In fact one of the limits that I&rsquo;m noticing with Tensorflow is the choice of optmization algorithms, mostly (all?) based on derivatives (no Nelder-Mead, sadly), thus suited for well behaved systems but less for the complex ridges of energy landscapes.</p>
+<p>Another issue is the limited optimization on multicore and massively multicore system. Still I have to manage to compile it under cluster. In my dual socket workstation with 20 cores HT Tensorflow insists in using only at most (but rarely) 4-5 cores&hellip;</p>
+
+      </div></div>
+
+  
+  
+<div class="pagination">
+    <div class="pagination__title">
+        <span class="pagination__title-h"></span>
+        <hr />
+    </div>
+    <div class="pagination__buttons">
+        
+        <span class="button previous">
+            <a href="http://andreaidini.github.io/wilt/2019/01/23/overview-of-statistical-learning-theory/">
+                <span class="button__icon">←</span>
+                <span class="button__text">Overview of statistical learning theory</span>
+            </a>
+        </span>
+        
+        
+        <span class="button next">
+            <a href="http://andreaidini.github.io/wilt/2017/05/06/dynamic-mapping-with-shapefiles-and-python/">
+                <span class="button__text">Dynamic mapping with Shapefiles and python</span>
+                <span class="button__icon">→</span>
+            </a>
+        </span>
+        
+    </div>
+</div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2021 Powered by <a href="http://gohugo.io">Hugo</a></span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="http://andreaidini.github.io/wilt/assets/main.js"></script>
+<script src="http://andreaidini.github.io/wilt/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

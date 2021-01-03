@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on WILT</title>
+    <link>http://andreaidini.github.io/wilt/categories/</link>
+    <description>Recent content in Categories on WILT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jan 2019 16:41:31 +0000</lastBuildDate><atom:link href="http://andreaidini.github.io/wilt/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Probability</title>
+      <link>http://andreaidini.github.io/wilt/categories/probability/</link>
+      <pubDate>Wed, 23 Jan 2019 16:41:31 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/categories/probability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>http://andreaidini.github.io/wilt/categories/science/</link>
+      <pubDate>Wed, 23 Jan 2019 16:41:31 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/categories/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>http://andreaidini.github.io/wilt/categories/coding/</link>
+      <pubDate>Thu, 22 Jun 2017 23:30:17 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/categories/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informatics</title>
+      <link>http://andreaidini.github.io/wilt/categories/informatics/</link>
+      <pubDate>Thu, 22 Jun 2017 23:30:17 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/categories/informatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>http://andreaidini.github.io/wilt/categories/technology/</link>
+      <pubDate>Thu, 22 Jun 2017 23:30:17 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off-topic</title>
+      <link>http://andreaidini.github.io/wilt/categories/off-topic/</link>
+      <pubDate>Sat, 18 Feb 2017 18:54:58 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/categories/off-topic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics</title>
+      <link>http://andreaidini.github.io/wilt/categories/physics/</link>
+      <pubDate>Mon, 30 Jan 2017 19:03:17 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/categories/physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>http://andreaidini.github.io/wilt/categories/finance/</link>
+      <pubDate>Sun, 10 May 2015 21:54:40 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/categories/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>http://andreaidini.github.io/wilt/categories/web/</link>
+      <pubDate>Tue, 25 Mar 2014 21:20:48 +0000</pubDate>
+      
+      <guid>http://andreaidini.github.io/wilt/categories/web/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
