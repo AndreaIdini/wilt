@@ -1,0 +1,92 @@
+baseurl: http://andreaidini.github.io/wilt/
+#baseurl: http://www.phme.it/wilt/
+#baseurl: http://localhost:1313
+languageCode: en-us
+#theme: hugo-theme-stack
+theme: hugo-theme-terminal
+paginate: 25
+title: WILT
+description: what I learned today
+
+# Change it to your Disqus shortname before using
+#disqusShortname: hugo-theme-stack
+
+# Theme i18n support
+# Available values: en, fr, id, ja, ko, pt-br, zh-cn
+DefaultContentLanguage: en
+
+#permalinks:
+#    post: /p/:slug/
+#    page: /:slug/
+
+params:
+    FullWidthTheme: false
+    CenterTheme: true
+    themeColor : green
+    contentTypeName: post
+
+    featuredImageField: image
+    rssFullContent: true
+    favicon:
+
+    footer:
+        since: 2013
+        customText: no frills, just learn.
+
+    dateFormat:
+        published: Jan 02, 2006
+        lastUpdated: Jan 02, 2006 15:04 MST
+
+    article:
+        math: true
+        license:
+            enabled: true
+            default: Licensed under CC BY-NC-SA 4.0
+            # default: All rights reserved
+
+    comments:
+        enabled: false
+        provider: disqus
+        utterances:
+            repo:
+            issueTerm: pathname
+            label:
+            theme: preferred-color-scheme
+
+# menu:
+#     main:
+#         - identifier: home
+#           name: Home
+#           url: /
+#           weight: -100
+#           pre: home
+
+        #- identifier: archives
+        #  name: Archives
+        #  url: archives
+        #  weight: -70
+        #  pre: archives
+
+        #- identifier: search
+        #  name: Search
+        #  url: search
+        #  weight: -60
+        #  pre: search
+
+related:
+    includeNewer: true
+    threshold: 60
+    toLower: false
+    indices:
+        - name: tags
+          weight: 100
+
+        - name: categories
+          weight: 200
+
+markup:
+    highlight:
+        noClasses: false
+    goldmark:
+        renderer:
+            unsafe: true
