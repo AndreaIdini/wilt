@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>.htaccess on WILT</title>
-    <link>https://wilt.phme.it/tags/.htaccess/</link>
+    <link>wilt.phme.it/tags/.htaccess/</link>
     <description>Recent content in .htaccess on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Mar 2014 21:20:48 +0000</lastBuildDate><atom:link href="https://wilt.phme.it/tags/.htaccess/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Mar 2014 21:20:48 +0000</lastBuildDate><atom:link href="wilt.phme.it/tags/.htaccess/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The website craft 101</title>
-      <link>https://wilt.phme.it/2014/03/25/the-power-of-dns/</link>
+      <link>wilt.phme.it/2014/03/25/the-power-of-dns/</link>
       <pubDate>Tue, 25 Mar 2014 21:20:48 +0000</pubDate>
       
-      <guid>https://wilt.phme.it/2014/03/25/the-power-of-dns/</guid>
+      <guid>wilt.phme.it/2014/03/25/the-power-of-dns/</guid>
       <description>When I kicked on WILT I learned some deal regarding the craft of the website productions.
 First of all I struggled with the DNS. I first of all found that exist two type of DNS configurations A and CNAME.
  A links to an IP-address, in other words the server IP. CNAME links to another http address, connecting via DNS for example http://phme.it to http://w__ww.phme.it.  Then I decided to set up the WordPress network in subdirectory instead of subdomain, and I struggled with the infamous .</description>

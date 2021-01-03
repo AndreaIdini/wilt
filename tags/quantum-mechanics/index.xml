@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>quantum mechanics on WILT</title>
-    <link>https://wilt.phme.it/tags/quantum-mechanics/</link>
+    <link>wilt.phme.it/tags/quantum-mechanics/</link>
     <description>Recent content in quantum mechanics on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jan 2017 17:58:14 +0000</lastBuildDate><atom:link href="https://wilt.phme.it/tags/quantum-mechanics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jan 2017 17:58:14 +0000</lastBuildDate><atom:link href="wilt.phme.it/tags/quantum-mechanics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The magical mystery world of nuclear reactions exposed.</title>
-      <link>https://wilt.phme.it/2017/01/19/226/</link>
+      <link>wilt.phme.it/2017/01/19/226/</link>
       <pubDate>Thu, 19 Jan 2017 17:58:14 +0000</pubDate>
       
-      <guid>https://wilt.phme.it/2017/01/19/226/</guid>
+      <guid>wilt.phme.it/2017/01/19/226/</guid>
       <description>Nuclear wave function in function of  for the proton  state, obtained by diagonalizing the self energy in the exact continuum used above. The first eigenvalue at -23.97 MeV (solid red line) is compared by the corresponding  harmonic oscillator state multiplied by the square root of the spectroscopic factor (dashed red line), the second eigenvalue at -2.85 MeV (solid blue line) is similarly compared with  harmonic oscillator state (dashed blue line).</description>
     </item>
     
     <item>
       <title>Calculation for Gaussian Matrix Elements</title>
-      <link>https://wilt.phme.it/2014/12/11/calculation-for-gaussian-matrix-elements/</link>
+      <link>wilt.phme.it/2014/12/11/calculation-for-gaussian-matrix-elements/</link>
       <pubDate>Thu, 11 Dec 2014 13:26:20 +0000</pubDate>
       
-      <guid>https://wilt.phme.it/2014/12/11/calculation-for-gaussian-matrix-elements/</guid>
+      <guid>wilt.phme.it/2014/12/11/calculation-for-gaussian-matrix-elements/</guid>
       <description>Detailed calculation of two-body matrix elements for a cooper pair (coupled to J=0, T=0), following the previous post but for the case of a Gaussian interaction between the members of the Cooper pair.
 Gaussian</description>
     </item>
     
     <item>
       <title>Example of Calculation</title>
-      <link>https://wilt.phme.it/2014/11/29/example-of-calculation/</link>
+      <link>wilt.phme.it/2014/11/29/example-of-calculation/</link>
       <pubDate>Sat, 29 Nov 2014 09:50:14 +0000</pubDate>
       
-      <guid>https://wilt.phme.it/2014/11/29/example-of-calculation/</guid>
+      <guid>wilt.phme.it/2014/11/29/example-of-calculation/</guid>
       <description>Example of careful two-body contact interaction calculation, for Cooper pairs.
 Two body contact skyrme analytical calculation</description>
     </item>
     
     <item>
       <title>Sterile neutrinos give birth to new Physics</title>
-      <link>https://wilt.phme.it/2014/03/05/sterile-neutrinos-give-birth-to-new-physics/</link>
+      <link>wilt.phme.it/2014/03/05/sterile-neutrinos-give-birth-to-new-physics/</link>
       <pubDate>Wed, 05 Mar 2014 18:19:12 +0000</pubDate>
       
-      <guid>https://wilt.phme.it/2014/03/05/sterile-neutrinos-give-birth-to-new-physics/</guid>
+      <guid>wilt.phme.it/2014/03/05/sterile-neutrinos-give-birth-to-new-physics/</guid>
       <description>&lt;p&gt;Today I learned something more about sterile neutrinos, and &lt;a href=&#34;http://www.newscientist.com/article/dn25113-fresh-hint-of-dark-matter-seen-in-neutrino-search.html#.UxdcrV2PI2j&#34;&gt;the latest advancement to the quest of finding them&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
