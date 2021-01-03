@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C-sharp on WILT</title>
-    <link>https://www.phme.it/wilt/tags/c-sharp/</link>
+    <link>https://wilt.phme.it/tags/c-sharp/</link>
     <description>Recent content in C-sharp on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2015 20:10:14 +0000</lastBuildDate><atom:link href="https://www.phme.it/wilt/tags/c-sharp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 May 2015 20:10:14 +0000</lastBuildDate><atom:link href="https://wilt.phme.it/tags/c-sharp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C# Lists and Dictionary</title>
-      <link>https://www.phme.it/wilt/2015/05/31/c-lists-and-dictionary/</link>
+      <link>https://wilt.phme.it/2015/05/31/c-lists-and-dictionary/</link>
       <pubDate>Sun, 31 May 2015 20:10:14 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2015/05/31/c-lists-and-dictionary/</guid>
+      <guid>https://wilt.phme.it/2015/05/31/c-lists-and-dictionary/</guid>
       <description>In C# there are several key differences to C++. Microsoft Website spells them all: https://msdn.microsoft.com/en-us/magazine/cc301520.aspx
 Garbage collector instead of deconstructors providing a different approach to micromenagment of memory and lists, jagged arrays and dynamic memory allocation are already available into the language. It supports also negative index to counting from the last element, similarly to Python.
 About lists instead of the usual self-made textbook-example class, there are specific embedded classes for Lists and Dictionaries.</description>

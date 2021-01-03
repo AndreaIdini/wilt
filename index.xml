@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WILT</title>
-    <link>https://www.phme.it/wilt/</link>
+    <link>https://wilt.phme.it/</link>
     <description>Recent content on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jan 2019 16:41:31 +0000</lastBuildDate><atom:link href="https://www.phme.it/wilt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jan 2019 16:41:31 +0000</lastBuildDate><atom:link href="https://wilt.phme.it/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overview of statistical learning theory</title>
-      <link>https://www.phme.it/wilt/2019/01/23/overview-of-statistical-learning-theory/</link>
+      <link>https://wilt.phme.it/2019/01/23/overview-of-statistical-learning-theory/</link>
       <pubDate>Wed, 23 Jan 2019 16:41:31 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2019/01/23/overview-of-statistical-learning-theory/</guid>
+      <guid>https://wilt.phme.it/2019/01/23/overview-of-statistical-learning-theory/</guid>
       <description>A wealth of information in the Vapnik&amp;rsquo;s masterpiece
 https://ieeexplore.ieee.org/document/788640
 An admissible structure is one satisfying the following three properties.
@@ -21,10 +21,10 @@ An admissible structure is one satisfying the following three properties.
     
     <item>
       <title>Teaching computer to read with linear regression</title>
-      <link>https://www.phme.it/wilt/2017/06/23/teaching-computer-to-read-with-linear-regression/</link>
+      <link>https://wilt.phme.it/2017/06/23/teaching-computer-to-read-with-linear-regression/</link>
       <pubDate>Thu, 22 Jun 2017 23:30:17 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2017/06/23/teaching-computer-to-read-with-linear-regression/</guid>
+      <guid>https://wilt.phme.it/2017/06/23/teaching-computer-to-read-with-linear-regression/</guid>
       <description>In the first part of the file tutorial2.py of repository Tensorflow in my github, you have the commented version of the MINST tutorial for experts in Tensorflow.
 Tensorflow is an opensource API for several languages that act as frontend for a machine learning backend that is quite flexible.
 What I was surprised for is the result of this first small exercise, that is: you take the pixel of the MINST package for character recognition traning.</description>
@@ -32,10 +32,10 @@ What I was surprised for is the result of this first small exercise, that is: yo
     
     <item>
       <title>Dynamic mapping with Shapefiles and python</title>
-      <link>https://www.phme.it/wilt/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</link>
+      <link>https://wilt.phme.it/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</link>
       <pubDate>Sat, 06 May 2017 15:50:55 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</guid>
+      <guid>https://wilt.phme.it/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</guid>
       <description>In a two days coding challenge over workers day holiday, I decided to play with maps as means to plot information. What I decided to are use are the widely available shapefiles and python matplotlib packages, using mainly pandas and numpy to analyse data.
 You can find everything in this git repository.
 First of all you can start familiarising with shapefiles by plotting the pure patches, as in function mP in mapPlot.</description>
@@ -43,30 +43,30 @@ First of all you can start familiarising with shapefiles by plotting the pure pa
     
     <item>
       <title>Generational clash</title>
-      <link>https://www.phme.it/wilt/2017/02/18/generational-clash/</link>
+      <link>https://wilt.phme.it/2017/02/18/generational-clash/</link>
       <pubDate>Sat, 18 Feb 2017 18:54:58 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2017/02/18/generational-clash/</guid>
+      <guid>https://wilt.phme.it/2017/02/18/generational-clash/</guid>
       <description>Never in the last 3 centuries the interests rates have been as low as today(0.5%), and as high as in the previous generation (18% nel 1980).
 Here are the data from the Bank of England since 1694.</description>
     </item>
     
     <item>
       <title>The new prodigy behind Google translate</title>
-      <link>https://www.phme.it/wilt/2017/02/13/the-new-prodigy-behind-google-translate/</link>
+      <link>https://wilt.phme.it/2017/02/13/the-new-prodigy-behind-google-translate/</link>
       <pubDate>Mon, 13 Feb 2017 18:12:41 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2017/02/13/the-new-prodigy-behind-google-translate/</guid>
+      <guid>https://wilt.phme.it/2017/02/13/the-new-prodigy-behind-google-translate/</guid>
       <description>I read a lot of misconceptions this morning related to this article regarding Google Translate. Is not properly fresh news but this morning in my telegram group @scienza, this other popularization article has been posted that completely misunderstood the premises of the original academic article (also the so-called informed comments are not really , so I decided to try to keep the record straight and offer a question.
 In the article the approach is referred as a multitasking learning framework</description>
     </item>
     
     <item>
       <title>CP Symmetry violation</title>
-      <link>https://www.phme.it/wilt/2017/01/30/cp-symmetry-violation/</link>
+      <link>https://wilt.phme.it/2017/01/30/cp-symmetry-violation/</link>
       <pubDate>Mon, 30 Jan 2017 19:03:17 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2017/01/30/cp-symmetry-violation/</guid>
+      <guid>https://wilt.phme.it/2017/01/30/cp-symmetry-violation/</guid>
       <description>Matter-Antimatter symmetry violation might have found it&amp;rsquo;s first culprit and have been recently published on Nature (here&amp;rsquo;s the arXiv https://arxiv.org/abs/1609.05216 )
 Together with the results of AMS (pasted) have been an interesting 2016 for big collaborations.
 What can nuclear physics contribute to such big and fancy experiments and new quests for dark matter or CP symmetry? All these experiments use nuclei at one point or another of their experimental chain, all of them use the strong force and its low-energy extrapolation&amp;hellip;</description>
@@ -74,29 +74,29 @@ What can nuclear physics contribute to such big and fancy experiments and new qu
     
     <item>
       <title>The magical mystery world of nuclear reactions exposed.</title>
-      <link>https://www.phme.it/wilt/2017/01/19/226/</link>
+      <link>https://wilt.phme.it/2017/01/19/226/</link>
       <pubDate>Thu, 19 Jan 2017 17:58:14 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2017/01/19/226/</guid>
+      <guid>https://wilt.phme.it/2017/01/19/226/</guid>
       <description>Nuclear wave function in function of  for the proton  state, obtained by diagonalizing the self energy in the exact continuum used above. The first eigenvalue at -23.97 MeV (solid red line) is compared by the corresponding  harmonic oscillator state multiplied by the square root of the spectroscopic factor (dashed red line), the second eigenvalue at -2.85 MeV (solid blue line) is similarly compared with  harmonic oscillator state (dashed blue line).</description>
     </item>
     
     <item>
       <title>Github returns</title>
-      <link>https://www.phme.it/wilt/2017/01/18/github-returns/</link>
+      <link>https://wilt.phme.it/2017/01/18/github-returns/</link>
       <pubDate>Wed, 18 Jan 2017 22:37:11 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2017/01/18/github-returns/</guid>
+      <guid>https://wilt.phme.it/2017/01/18/github-returns/</guid>
       <description>I am setting up and using the public github repository after many years. I decided to start releasing some old projects publicly, since seems apparent I will never have time to write anymore papers, nor to polish the code.
 Eventually, at least for these little &amp;ldquo;didactic&amp;rdquo; subprojects, I will start to do little explanatory videos, or blogposts, instead of articles just to save times and make the process more fluid.</description>
     </item>
     
     <item>
       <title>Macbook Pro 2016</title>
-      <link>https://www.phme.it/wilt/2016/10/28/macbook-pro-2016/</link>
+      <link>https://wilt.phme.it/2016/10/28/macbook-pro-2016/</link>
       <pubDate>Fri, 28 Oct 2016 17:19:42 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2016/10/28/macbook-pro-2016/</guid>
+      <guid>https://wilt.phme.it/2016/10/28/macbook-pro-2016/</guid>
       <description>Macbook Pro 2016 update sports still LPDDR3 RAM memory, in 8GB or 16GB size, and 1866 or 2133 MHz CL11 or CL12.
 Frankly I&amp;rsquo;m furious that a 2300£ (starting from) laptop still uses a 9 years old standard, while a newer one is available since more than a year.
 Already the Skylake processor is a setback, but the DDR3 memory on a Intel graphics laptop is practically a scam.
@@ -105,19 +105,19 @@ Dell XPS15 offers better specs since June, in roughly the same size.</descriptio
     
     <item>
       <title>Shakespearean Conondrum</title>
-      <link>https://www.phme.it/wilt/2016/02/07/shakespearean-conondrum/</link>
+      <link>https://wilt.phme.it/2016/02/07/shakespearean-conondrum/</link>
       <pubDate>Sun, 07 Feb 2016 22:05:03 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2016/02/07/shakespearean-conondrum/</guid>
+      <guid>https://wilt.phme.it/2016/02/07/shakespearean-conondrum/</guid>
       <description>∃ ⊻ (¬∃)?</description>
     </item>
     
     <item>
       <title>Little feature in Times Higher Education and elsewhere</title>
-      <link>https://www.phme.it/wilt/2016/01/08/little-feature-in-times-higher-education/</link>
+      <link>https://wilt.phme.it/2016/01/08/little-feature-in-times-higher-education/</link>
       <pubDate>Fri, 08 Jan 2016 08:37:55 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2016/01/08/little-feature-in-times-higher-education/</guid>
+      <guid>https://wilt.phme.it/2016/01/08/little-feature-in-times-higher-education/</guid>
       <description>Just for note to self (Andrea Idini) for the news review over my grant:
 https://www.timeshighereducation.com/news/grant-winners-7-january-2016
 http://www.britac.ac.uk/news/news.cfm/newsid/1344
@@ -130,10 +130,10 @@ Proud little 99k£&amp;hellip;</description>
     
     <item>
       <title>C# Lists and Dictionary</title>
-      <link>https://www.phme.it/wilt/2015/05/31/c-lists-and-dictionary/</link>
+      <link>https://wilt.phme.it/2015/05/31/c-lists-and-dictionary/</link>
       <pubDate>Sun, 31 May 2015 20:10:14 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2015/05/31/c-lists-and-dictionary/</guid>
+      <guid>https://wilt.phme.it/2015/05/31/c-lists-and-dictionary/</guid>
       <description>In C# there are several key differences to C++. Microsoft Website spells them all: https://msdn.microsoft.com/en-us/magazine/cc301520.aspx
 Garbage collector instead of deconstructors providing a different approach to micromenagment of memory and lists, jagged arrays and dynamic memory allocation are already available into the language. It supports also negative index to counting from the last element, similarly to Python.
 About lists instead of the usual self-made textbook-example class, there are specific embedded classes for Lists and Dictionaries.</description>
@@ -141,10 +141,10 @@ About lists instead of the usual self-made textbook-example class, there are spe
     
     <item>
       <title>Calculation of Skyrme Landau Parameters</title>
-      <link>https://www.phme.it/wilt/2015/05/29/calculation-of-skyrme-landau-parameters/</link>
+      <link>https://wilt.phme.it/2015/05/29/calculation-of-skyrme-landau-parameters/</link>
       <pubDate>Fri, 29 May 2015 14:35:23 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2015/05/29/calculation-of-skyrme-landau-parameters/</guid>
+      <guid>https://wilt.phme.it/2015/05/29/calculation-of-skyrme-landau-parameters/</guid>
       <description>Calculation of Landau Parameters for Skyrme zero-range interaction and a hint to Gogny finite-range, starting from the definition of the particle-hole interaction.
 Remember kids:  is not the relative momentum, but the momentum in the relative space!
 Landau Parameters</description>
@@ -152,20 +152,20 @@ Landau Parameters</description>
     
     <item>
       <title>Fun with conditional probability</title>
-      <link>https://www.phme.it/wilt/2015/05/26/fun-with-conditional-probability/</link>
+      <link>https://wilt.phme.it/2015/05/26/fun-with-conditional-probability/</link>
       <pubDate>Tue, 26 May 2015 21:05:56 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2015/05/26/fun-with-conditional-probability/</guid>
+      <guid>https://wilt.phme.it/2015/05/26/fun-with-conditional-probability/</guid>
       <description>&lt;p&gt;Bayesian concept of probability is linked not with frequency, but with state of information. The processing of this information proceeds in a propositional sense. In fact there are semantic work related to the use of Bayesian statistic as foundation for programming languages (&lt;a href=&#34;http://bayesianlogic.github.io/&#34;&gt;BLOG&lt;/a&gt;), First kind logic (&lt;a href=&#34;http://seor.gmu.edu/~klaskey/papers/Laskey_MEBN_Logic.pdf&#34;&gt;MEBN&lt;/a&gt; , also look at the fun &lt;a href=&#34;http://arxiv.org/ftp/arxiv/papers/1207/1207.1354.pdf&#34;&gt;Of Starships and Klingon&lt;/a&gt;) and thus the foundation principles of Network-Centric warfare and commerce.&lt;/p&gt;
 &lt;p&gt;Property of Baysian calculation of proabability are sometimes difficult to grasp and very counter intuitive, interesting consideration can hide behind apparently trivial formulas that can help to answer questions like: &lt;em&gt;If you know your neighbour has a son born on Tuesday, which is the probability your neighbour has two sons?&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Practice of Programming</title>
-      <link>https://www.phme.it/wilt/2015/05/18/the-practice-of-programming/</link>
+      <link>https://wilt.phme.it/2015/05/18/the-practice-of-programming/</link>
       <pubDate>Mon, 18 May 2015 21:34:32 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2015/05/18/the-practice-of-programming/</guid>
+      <guid>https://wilt.phme.it/2015/05/18/the-practice-of-programming/</guid>
       <description>&lt;p&gt;I started reading &amp;ldquo;The Practice of Programming&amp;rdquo; by Kernigan and Pike.&lt;/p&gt;
 &lt;p&gt;The book hinges on the concepts of &lt;em&gt;simplicity&lt;/em&gt;, &lt;em&gt;clarity&lt;/em&gt; and &lt;em&gt;generality&lt;/em&gt; as foundation of a good code. Eventually &lt;em&gt;automation&lt;/em&gt; can bring something to the table generating code from algorithms.&lt;/p&gt;
 &lt;p&gt;It starts by the usual &amp;ldquo;obvious&amp;rdquo; remarks about style:&lt;/p&gt;</description>
@@ -173,10 +173,10 @@ Landau Parameters</description>
     
     <item>
       <title>Value at Risk on expected return</title>
-      <link>https://www.phme.it/wilt/2015/05/10/value-on-expected-return/</link>
+      <link>https://wilt.phme.it/2015/05/10/value-on-expected-return/</link>
       <pubDate>Sun, 10 May 2015 21:54:40 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2015/05/10/value-on-expected-return/</guid>
+      <guid>https://wilt.phme.it/2015/05/10/value-on-expected-return/</guid>
       <description>Value at Risk on expected return is the lower bound for the loss in an investement respect to a probability.
 Is a way to estimating losses probabilities in terms of value, instead of standard deviation. E.g. in the case of , means that the investor have a probability  of loosing € or more, investing € on the portfolio .
 Considering the system ergodic and thus all the variances of the titles summing up coherently to for a variance of the portfolio distributed within the normal distribution, this is simply calculated considering the quantile (the value of the distribution corresponding to a certain fraction  of probability) .</description>
@@ -184,10 +184,10 @@ Considering the system ergodic and thus all the variances of the titles summing 
     
     <item>
       <title>No-Arbitrage condition</title>
-      <link>https://www.phme.it/wilt/2015/05/06/no-arbitrage-condition/</link>
+      <link>https://wilt.phme.it/2015/05/06/no-arbitrage-condition/</link>
       <pubDate>Wed, 06 May 2015 21:03:14 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2015/05/06/no-arbitrage-condition/</guid>
+      <guid>https://wilt.phme.it/2015/05/06/no-arbitrage-condition/</guid>
       <description>No Arbitrage states the inadmissibility of Free Lunch in applying a structure (metric?) to the prices.
 Considering a title with price  and cash flow , or every time , where  it is the discretized time .
 Then we have the two No-Arbitrage condition:
@@ -196,10 +196,10 @@ Then we have the two No-Arbitrage condition:
     
     <item>
       <title>Optimizing: the Minimum Variance (or Maximum Return) Portfolio example</title>
-      <link>https://www.phme.it/wilt/2015/05/05/optimizing-the-portfolio/</link>
+      <link>https://wilt.phme.it/2015/05/05/optimizing-the-portfolio/</link>
       <pubDate>Tue, 05 May 2015 21:16:59 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2015/05/05/optimizing-the-portfolio/</guid>
+      <guid>https://wilt.phme.it/2015/05/05/optimizing-the-portfolio/</guid>
       <description>The aim is the optimization either by maximizing total return (or minimizing risk), in keeping with the constraints of normalization for a given risk (or return).
 Thus Lagrange method is perfectly suited for the job.
 For minimizing risk, respect to a desired total return , one must consider the function of total risk
@@ -208,10 +208,10 @@ For minimizing risk, respect to a desired total return , one must consider the f
     
     <item>
       <title>Investment Portfolio Basics</title>
-      <link>https://www.phme.it/wilt/2015/05/03/investment-portfolio-basics/</link>
+      <link>https://wilt.phme.it/2015/05/03/investment-portfolio-basics/</link>
       <pubDate>Sun, 03 May 2015 19:40:48 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2015/05/03/investment-portfolio-basics/</guid>
+      <guid>https://wilt.phme.it/2015/05/03/investment-portfolio-basics/</guid>
       <description>Considering  the vector of assets i weight in the portfolio (with constrain ) and  the vector of expect returns on the corresponding assets.
 Considering  the volatility of the given asset, corresponding to the standard deviation of the normal distribution of returns (and thus  the risk), and  the correlation between assets.
 The Total Return is given by:
@@ -221,59 +221,59 @@ The Total Return is given by:
     
     <item>
       <title>Theorical ArXiv of Cook and Rossi</title>
-      <link>https://www.phme.it/wilt/2015/04/13/103/</link>
+      <link>https://wilt.phme.it/2015/04/13/103/</link>
       <pubDate>Mon, 13 Apr 2015 08:17:52 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2015/04/13/103/</guid>
+      <guid>https://wilt.phme.it/2015/04/13/103/</guid>
       <description>&lt;p&gt;There are several aspects of the &lt;a href=&#34;http://arxiv.org/abs/1504.01261&#34;&gt;paper of Norman Cook and Andrea Rossi&lt;/a&gt; that scream &amp;ldquo;amateurish&amp;rdquo;: from layout to typos (hoping they&amp;rsquo;re so), from historical concepts to bibliography, I&amp;rsquo;m not certainly the only one to have noted them.&lt;/p&gt;
 &lt;p&gt;But is the scientific thesis to be flawed, even without considering the disputed history of E-cat and LENR and possible prejudices one can have on the author and its reasons.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Calculation for Gaussian Matrix Elements</title>
-      <link>https://www.phme.it/wilt/2014/12/11/calculation-for-gaussian-matrix-elements/</link>
+      <link>https://wilt.phme.it/2014/12/11/calculation-for-gaussian-matrix-elements/</link>
       <pubDate>Thu, 11 Dec 2014 13:26:20 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2014/12/11/calculation-for-gaussian-matrix-elements/</guid>
+      <guid>https://wilt.phme.it/2014/12/11/calculation-for-gaussian-matrix-elements/</guid>
       <description>Detailed calculation of two-body matrix elements for a cooper pair (coupled to J=0, T=0), following the previous post but for the case of a Gaussian interaction between the members of the Cooper pair.
 Gaussian</description>
     </item>
     
     <item>
       <title>Example of Calculation</title>
-      <link>https://www.phme.it/wilt/2014/11/29/example-of-calculation/</link>
+      <link>https://wilt.phme.it/2014/11/29/example-of-calculation/</link>
       <pubDate>Sat, 29 Nov 2014 09:50:14 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2014/11/29/example-of-calculation/</guid>
+      <guid>https://wilt.phme.it/2014/11/29/example-of-calculation/</guid>
       <description>Example of careful two-body contact interaction calculation, for Cooper pairs.
 Two body contact skyrme analytical calculation</description>
     </item>
     
     <item>
       <title>Beta decay logft</title>
-      <link>https://www.phme.it/wilt/2014/08/06/beta-decay-logft/</link>
+      <link>https://wilt.phme.it/2014/08/06/beta-decay-logft/</link>
       <pubDate>Wed, 06 Aug 2014 14:33:09 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2014/08/06/beta-decay-logft/</guid>
+      <guid>https://wilt.phme.it/2014/08/06/beta-decay-logft/</guid>
       <description>The comparative half life ft is useful to compare the strength of the  and electron-capture processes over different nuclei. -decay half lives can span several orders of magnitude, from fraction of seconds to thousands of time the age of the universe. Some of these striking differences are due to relatively trivial energetic conditions, but the more interesting from a nuclear structure point of view are due to the wavefunction superposition and the angular momentum coupling.</description>
     </item>
     
     <item>
       <title>The mistery of Nature&#39;s sons</title>
-      <link>https://www.phme.it/wilt/2014/06/11/the-mistery-of/</link>
+      <link>https://wilt.phme.it/2014/06/11/the-mistery-of/</link>
       <pubDate>Wed, 11 Jun 2014 15:57:24 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2014/06/11/the-mistery-of/</guid>
+      <guid>https://wilt.phme.it/2014/06/11/the-mistery-of/</guid>
       <description>Ta-180 is the rarest isotope of Nature&amp;rsquo;s rarest element. It exists only in an a long-lived (10^15y half life) isomer (Jpi=9-; E=75 keV). Potential s-process production path is easy to point out, but the survival of this fragile piece of nature at finite temperature is unlikely&amp;hellip;
 The mysteries of strange Nature&amp;rsquo;s sons can be investigated with a combination of the thermodynamic of s-process sites, p-process and neutrino nucleosynthesis.</description>
     </item>
     
     <item>
       <title>The website craft 101</title>
-      <link>https://www.phme.it/wilt/2014/03/25/the-power-of-dns/</link>
+      <link>https://wilt.phme.it/2014/03/25/the-power-of-dns/</link>
       <pubDate>Tue, 25 Mar 2014 21:20:48 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2014/03/25/the-power-of-dns/</guid>
+      <guid>https://wilt.phme.it/2014/03/25/the-power-of-dns/</guid>
       <description>When I kicked on WILT I learned some deal regarding the craft of the website productions.
 First of all I struggled with the DNS. I first of all found that exist two type of DNS configurations A and CNAME.
  A links to an IP-address, in other words the server IP. CNAME links to another http address, connecting via DNS for example http://phme.it to http://w__ww.phme.it.  Then I decided to set up the WordPress network in subdirectory instead of subdomain, and I struggled with the infamous .</description>
@@ -281,20 +281,20 @@ First of all I struggled with the DNS. I first of all found that exist two type 
     
     <item>
       <title>The semantic of Machine Learning</title>
-      <link>https://www.phme.it/wilt/2014/03/23/the-semantic-of-machine-learning/</link>
+      <link>https://wilt.phme.it/2014/03/23/the-semantic-of-machine-learning/</link>
       <pubDate>Sat, 22 Mar 2014 23:38:47 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2014/03/23/the-semantic-of-machine-learning/</guid>
+      <guid>https://wilt.phme.it/2014/03/23/the-semantic-of-machine-learning/</guid>
       <description>Today I learned again that most things in life are a matter of semantics&amp;hellip; After some online lectures in Machine Learning techniques I discovered that what I call &amp;ldquo;Ordinary Least Squares&amp;rdquo; is generalized as a &amp;ldquo;cost function&amp;rdquo; and a simplified version of the &amp;ldquo;Newton Method&amp;rdquo; is refferred to as &amp;ldquo;Gradient Descent&amp;rdquo;.
 So, basically, the core of a supervised learned algorithm seems to be the choose of an appropriate &amp;ldquo;cost function&amp;rdquo; and the application of the most effective minimization algorithm.</description>
     </item>
     
     <item>
       <title>How to see space occupied by directories in Linux Terminal</title>
-      <link>https://www.phme.it/wilt/2014/03/18/how-to-see-space-occupied-by-directories-in-linux-terminal/</link>
+      <link>https://wilt.phme.it/2014/03/18/how-to-see-space-occupied-by-directories-in-linux-terminal/</link>
       <pubDate>Tue, 18 Mar 2014 13:48:16 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2014/03/18/how-to-see-space-occupied-by-directories-in-linux-terminal/</guid>
+      <guid>https://wilt.phme.it/2014/03/18/how-to-see-space-occupied-by-directories-in-linux-terminal/</guid>
       <description>I learn and forget every tuesday afternoon the power of du and other Linux command line hacks. Hopefully writing this it will stick better in my brain lacking of real estate&amp;hellip;
 To visualize the dimension of directories without opening the whole tree (and relative nests), the useful command is
  du -hs */
@@ -303,20 +303,20 @@ To visualize the dimension of directories without opening the whole tree (and re
     
     <item>
       <title>MacPro&#39;s FirePro cards are actually a Radeon?</title>
-      <link>https://www.phme.it/wilt/2014/03/17/macpros-firepro-cards-are-actually-a-radeon/</link>
+      <link>https://wilt.phme.it/2014/03/17/macpros-firepro-cards-are-actually-a-radeon/</link>
       <pubDate>Mon, 17 Mar 2014 19:54:25 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2014/03/17/macpros-firepro-cards-are-actually-a-radeon/</guid>
+      <guid>https://wilt.phme.it/2014/03/17/macpros-firepro-cards-are-actually-a-radeon/</guid>
       <description>&lt;p&gt;Today I learned about the new MacPro (2013 model) and the associated D300, D500, D700 graphic cards, that are compared over and over with Firepro W series (W7000, W8000 and W9000) by professional reviewers, thus making the MacPro 3500$ and rising price tag sound like a gift (FirePro W cards go from 500 to 1500 $ each).&lt;/p&gt;
 &lt;p&gt;To my knowledge, the difference between professional (ATI FirePro and NVidia Quadro) and consumer (ATI Radeon and NVidia GeForce) graphic cards is not in number or clock of processors or memory (the architecture is exactly the same, for example, for ATI Radeon 7970 and Firepro W9000 and D700 but the first cost one third of the second for the reason below), but :&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Do not trust Google Analytics</title>
-      <link>https://www.phme.it/wilt/2014/03/15/do-not-trust-google-analytics/</link>
+      <link>https://wilt.phme.it/2014/03/15/do-not-trust-google-analytics/</link>
       <pubDate>Sat, 15 Mar 2014 08:41:41 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2014/03/15/do-not-trust-google-analytics/</guid>
+      <guid>https://wilt.phme.it/2014/03/15/do-not-trust-google-analytics/</guid>
       <description>I learned that Google needs some hours in order to track your website in Analytics.
 Even if in the &amp;ldquo;Tracking Code&amp;rdquo; section it says &amp;ldquo;Tracking Code is not Working&amp;rdquo; reporting a check performed in a given minute, actually sometimes you just have to wait some hours to start &amp;ldquo;Receiving Data&amp;rdquo; without furthermore tinkering with your web code.
 So just check the source code of your page, and if the Google Analytics snippet is included just give Google the time to update the tracking, without trusting too much the checking section.</description>
@@ -324,30 +324,30 @@ So just check the source code of your page, and if the Google Analytics snippet 
     
     <item>
       <title>The Speed of a V2 Rocket.</title>
-      <link>https://www.phme.it/wilt/2014/03/13/the-speed-of-a-v2-rocket/</link>
+      <link>https://wilt.phme.it/2014/03/13/the-speed-of-a-v2-rocket/</link>
       <pubDate>Thu, 13 Mar 2014 16:38:16 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2014/03/13/the-speed-of-a-v2-rocket/</guid>
+      <guid>https://wilt.phme.it/2014/03/13/the-speed-of-a-v2-rocket/</guid>
       <description>Today I learned that the a V-2 rocket was much faster than the speed of sound, in fact the max speed was more around Mach-4 (5,760 km/h to be more precise, according to wikipedia), and flied using a water-ethanol compund and liquid oxygen (!).
 Some survivors were in fact reporting the hitting of the blast in utter silence followed by the sonic boom and the sound of hell breaking loose.</description>
     </item>
     
     <item>
       <title>Universality and few-body systems</title>
-      <link>https://www.phme.it/wilt/2014/03/11/universality-and-few-body-systems/</link>
+      <link>https://wilt.phme.it/2014/03/11/universality-and-few-body-systems/</link>
       <pubDate>Tue, 11 Mar 2014 15:38:15 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2014/03/11/universality-and-few-body-systems/</guid>
+      <guid>https://wilt.phme.it/2014/03/11/universality-and-few-body-systems/</guid>
       <description>The three Borromean rings.  There are some properties of few-body systems that are &amp;ldquo;Universal&amp;rdquo;, so shared between all few-body systems that feel an attractive interaction (with certain boundary properties for defining eventual spin-orbit and isospin).
 An example of this behavior are the Efimov states of three-body systems: when an interaction loosely bound two bodies, the three-body system have a precise spectrum of excitation. This spectrum is observed in three nucleons systems like Helium-3 and Triton, since the two-body system, the deuteron, is loosely bound (for nuclear scales).</description>
     </item>
     
     <item>
       <title>Sterile neutrinos give birth to new Physics</title>
-      <link>https://www.phme.it/wilt/2014/03/05/sterile-neutrinos-give-birth-to-new-physics/</link>
+      <link>https://wilt.phme.it/2014/03/05/sterile-neutrinos-give-birth-to-new-physics/</link>
       <pubDate>Wed, 05 Mar 2014 18:19:12 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2014/03/05/sterile-neutrinos-give-birth-to-new-physics/</guid>
+      <guid>https://wilt.phme.it/2014/03/05/sterile-neutrinos-give-birth-to-new-physics/</guid>
       <description>&lt;p&gt;Today I learned something more about sterile neutrinos, and &lt;a href=&#34;http://www.newscientist.com/article/dn25113-fresh-hint-of-dark-matter-seen-in-neutrino-search.html#.UxdcrV2PI2j&#34;&gt;the latest advancement to the quest of finding them&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     

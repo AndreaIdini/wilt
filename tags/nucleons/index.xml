@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nucleons on WILT</title>
-    <link>https://www.phme.it/wilt/tags/nucleons/</link>
+    <link>https://wilt.phme.it/tags/nucleons/</link>
     <description>Recent content in nucleons on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Mar 2014 15:38:15 +0000</lastBuildDate><atom:link href="https://www.phme.it/wilt/tags/nucleons/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Mar 2014 15:38:15 +0000</lastBuildDate><atom:link href="https://wilt.phme.it/tags/nucleons/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Universality and few-body systems</title>
-      <link>https://www.phme.it/wilt/2014/03/11/universality-and-few-body-systems/</link>
+      <link>https://wilt.phme.it/2014/03/11/universality-and-few-body-systems/</link>
       <pubDate>Tue, 11 Mar 2014 15:38:15 +0000</pubDate>
       
-      <guid>https://www.phme.it/wilt/2014/03/11/universality-and-few-body-systems/</guid>
+      <guid>https://wilt.phme.it/2014/03/11/universality-and-few-body-systems/</guid>
       <description>The three Borromean rings.  There are some properties of few-body systems that are &amp;ldquo;Universal&amp;rdquo;, so shared between all few-body systems that feel an attractive interaction (with certain boundary properties for defining eventual spin-orbit and isospin).
 An example of this behavior are the Efimov states of three-body systems: when an interaction loosely bound two bodies, the three-body system have a precise spectrum of excitation. This spectrum is observed in three nucleons systems like Helium-3 and Triton, since the two-body system, the deuteron, is loosely bound (for nuclear scales).</description>
     </item>
