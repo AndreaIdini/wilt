@@ -243,9 +243,11 @@ df_map['patches'] = df_map['poly'].map(lambda x: PolygonPatch(
 <span><img src="/wilt/wp-content/plugins/latex/cache/tex_7694f4a66316e53c8cdd9d9954bd611d.gif"/></span>, and errors on slope
 <span><img src="/wilt/wp-content/plugins/latex/cache/tex_6169448e85e6cc09773971899abdd179.gif"/></span> and intercept
 <span><img src="/wilt/wp-content/plugins/latex/cache/tex_5b9d728fda928ca196d7ed12a660b2c4.gif"/></span>.</p>
-<p>The index <span><img src="/wilt/wp-content/plugins/latex/cache/tex_9dd4e461268c8034f5c8564e155c67a6.gif"/></span> follows the OLS,</p>
-<p><span><img src="/wilt/wp-content/plugins/latex/cache/tex_a9467f895d9dcf1d7af6729271da07fe.gif"/></span></p>
-<p>where <span><img src="/wilt/wp-content/plugins/latex/cache/tex_9f2389478742ec98f594ef69e07dc56b.gif"/></span> indicates the average value of the slope across the dataset.</p>
+<p>The index <span><img src="/wilt/wp-content/plugins/latex/cache/tex_9dd4e461268c8034f5c8564e155c67a6.gif"/></span> follows the OLS,
+$$
+x = \textrm{sign} (m - \langle m \rangle) \frac{(m - \langle m \rangle)^2}{\langle \sigma_m \rangle^2} + \textrm{sign} (q -\langle q \rangle) \frac{(q - \langle q \rangle)^2}{\langle \sigma_q \rangle^2} -\frac{(\sigma_m - \langle \sigma_m \rangle)^2}{\langle \sigma_m \rangle^2} - \frac{(\sigma_q-\langle \sigma_q \rangle)^2}{\langle \sigma_q \rangle^2} ,
+$$
+where <span><img src="/wilt/wp-content/plugins/latex/cache/tex_9f2389478742ec98f594ef69e07dc56b.gif"/></span> indicates the average value of the slope across the dataset.</p>
 <p>This model is not deprived of defects and deficiencies, but is good first approximation and try to this dataset yielding sensible results over a vast geographical area.</p>
 <p>The final result (with a primitive scale and the correct aspect ratio enabled) for the London area is in the following figure.</p>
 <div id="attachment_262" style="width: 870px" class="wp-caption aligncenter">
