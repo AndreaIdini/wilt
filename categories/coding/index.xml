@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding on WILT</title>
-    <link>http://andreaidini.github.io/wilt/categories/coding/</link>
+    <link>https://andreaidini.github.io/wilt/categories/coding/</link>
     <description>Recent content in Coding on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 23:30:17 +0000</lastBuildDate><atom:link href="http://andreaidini.github.io/wilt/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jun 2017 23:30:17 +0000</lastBuildDate><atom:link href="https://andreaidini.github.io/wilt/categories/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching computer to read with linear regression</title>
-      <link>http://andreaidini.github.io/wilt/2017/06/23/teaching-computer-to-read-with-linear-regression/</link>
+      <link>https://andreaidini.github.io/wilt/2017/06/23/teaching-computer-to-read-with-linear-regression/</link>
       <pubDate>Thu, 22 Jun 2017 23:30:17 +0000</pubDate>
       
-      <guid>http://andreaidini.github.io/wilt/2017/06/23/teaching-computer-to-read-with-linear-regression/</guid>
+      <guid>https://andreaidini.github.io/wilt/2017/06/23/teaching-computer-to-read-with-linear-regression/</guid>
       <description>In the first part of the file tutorial2.py of repository Tensorflow in my github, you have the commented version of the MINST tutorial for experts in Tensorflow.
 Tensorflow is an opensource API for several languages that act as frontend for a machine learning backend that is quite flexible.
 What I was surprised for is the result of this first small exercise, that is: you take the pixel of the MINST package for character recognition traning.</description>
@@ -20,10 +20,10 @@ What I was surprised for is the result of this first small exercise, that is: yo
     
     <item>
       <title>Dynamic mapping with Shapefiles and python</title>
-      <link>http://andreaidini.github.io/wilt/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</link>
+      <link>https://andreaidini.github.io/wilt/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</link>
       <pubDate>Sat, 06 May 2017 15:50:55 +0000</pubDate>
       
-      <guid>http://andreaidini.github.io/wilt/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</guid>
+      <guid>https://andreaidini.github.io/wilt/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</guid>
       <description>In a two days coding challenge over workers day holiday, I decided to play with maps as means to plot information. What I decided to are use are the widely available shapefiles and python matplotlib packages, using mainly pandas and numpy to analyse data.
 You can find everything in this git repository.
 First of all you can start familiarising with shapefiles by plotting the pure patches, as in function mP in mapPlot.</description>
@@ -31,20 +31,20 @@ First of all you can start familiarising with shapefiles by plotting the pure pa
     
     <item>
       <title>Github returns</title>
-      <link>http://andreaidini.github.io/wilt/2017/01/18/github-returns/</link>
+      <link>https://andreaidini.github.io/wilt/2017/01/18/github-returns/</link>
       <pubDate>Wed, 18 Jan 2017 22:37:11 +0000</pubDate>
       
-      <guid>http://andreaidini.github.io/wilt/2017/01/18/github-returns/</guid>
+      <guid>https://andreaidini.github.io/wilt/2017/01/18/github-returns/</guid>
       <description>I am setting up and using the public github repository after many years. I decided to start releasing some old projects publicly, since seems apparent I will never have time to write anymore papers, nor to polish the code.
 Eventually, at least for these little &amp;ldquo;didactic&amp;rdquo; subprojects, I will start to do little explanatory videos, or blogposts, instead of articles just to save times and make the process more fluid.</description>
     </item>
     
     <item>
       <title>C# Lists and Dictionary</title>
-      <link>http://andreaidini.github.io/wilt/2015/05/31/c-lists-and-dictionary/</link>
+      <link>https://andreaidini.github.io/wilt/2015/05/31/c-lists-and-dictionary/</link>
       <pubDate>Sun, 31 May 2015 20:10:14 +0000</pubDate>
       
-      <guid>http://andreaidini.github.io/wilt/2015/05/31/c-lists-and-dictionary/</guid>
+      <guid>https://andreaidini.github.io/wilt/2015/05/31/c-lists-and-dictionary/</guid>
       <description>In C# there are several key differences to C++. Microsoft Website spells them all: https://msdn.microsoft.com/en-us/magazine/cc301520.aspx
 Garbage collector instead of deconstructors providing a different approach to micromenagment of memory and lists, jagged arrays and dynamic memory allocation are already available into the language. It supports also negative index to counting from the last element, similarly to Python.
 About lists instead of the usual self-made textbook-example class, there are specific embedded classes for Lists and Dictionaries.</description>
@@ -52,10 +52,10 @@ About lists instead of the usual self-made textbook-example class, there are spe
     
     <item>
       <title>The Practice of Programming</title>
-      <link>http://andreaidini.github.io/wilt/2015/05/18/the-practice-of-programming/</link>
+      <link>https://andreaidini.github.io/wilt/2015/05/18/the-practice-of-programming/</link>
       <pubDate>Mon, 18 May 2015 21:34:32 +0000</pubDate>
       
-      <guid>http://andreaidini.github.io/wilt/2015/05/18/the-practice-of-programming/</guid>
+      <guid>https://andreaidini.github.io/wilt/2015/05/18/the-practice-of-programming/</guid>
       <description>&lt;p&gt;I started reading &amp;ldquo;The Practice of Programming&amp;rdquo; by Kernigan and Pike.&lt;/p&gt;
 &lt;p&gt;The book hinges on the concepts of &lt;em&gt;simplicity&lt;/em&gt;, &lt;em&gt;clarity&lt;/em&gt; and &lt;em&gt;generality&lt;/em&gt; as foundation of a good code. Eventually &lt;em&gt;automation&lt;/em&gt; can bring something to the table generating code from algorithms.&lt;/p&gt;
 &lt;p&gt;It starts by the usual &amp;ldquo;obvious&amp;rdquo; remarks about style:&lt;/p&gt;</description>
@@ -63,10 +63,10 @@ About lists instead of the usual self-made textbook-example class, there are spe
     
     <item>
       <title>The website craft 101</title>
-      <link>http://andreaidini.github.io/wilt/2014/03/25/the-power-of-dns/</link>
+      <link>https://andreaidini.github.io/wilt/2014/03/25/the-power-of-dns/</link>
       <pubDate>Tue, 25 Mar 2014 21:20:48 +0000</pubDate>
       
-      <guid>http://andreaidini.github.io/wilt/2014/03/25/the-power-of-dns/</guid>
+      <guid>https://andreaidini.github.io/wilt/2014/03/25/the-power-of-dns/</guid>
       <description>When I kicked on WILT I learned some deal regarding the craft of the website productions.
 First of all I struggled with the DNS. I first of all found that exist two type of DNS configurations A and CNAME.
  A links to an IP-address, in other words the server IP. CNAME links to another http address, connecting via DNS for example http://phme.it to http://w__ww.phme.it.  Then I decided to set up the WordPress network in subdirectory instead of subdomain, and I struggled with the infamous .</description>
@@ -74,20 +74,20 @@ First of all I struggled with the DNS. I first of all found that exist two type 
     
     <item>
       <title>The semantic of Machine Learning</title>
-      <link>http://andreaidini.github.io/wilt/2014/03/23/the-semantic-of-machine-learning/</link>
+      <link>https://andreaidini.github.io/wilt/2014/03/23/the-semantic-of-machine-learning/</link>
       <pubDate>Sat, 22 Mar 2014 23:38:47 +0000</pubDate>
       
-      <guid>http://andreaidini.github.io/wilt/2014/03/23/the-semantic-of-machine-learning/</guid>
+      <guid>https://andreaidini.github.io/wilt/2014/03/23/the-semantic-of-machine-learning/</guid>
       <description>Today I learned again that most things in life are a matter of semantics&amp;hellip; After some online lectures in Machine Learning techniques I discovered that what I call &amp;ldquo;Ordinary Least Squares&amp;rdquo; is generalized as a &amp;ldquo;cost function&amp;rdquo; and a simplified version of the &amp;ldquo;Newton Method&amp;rdquo; is refferred to as &amp;ldquo;Gradient Descent&amp;rdquo;.
 So, basically, the core of a supervised learned algorithm seems to be the choose of an appropriate &amp;ldquo;cost function&amp;rdquo; and the application of the most effective minimization algorithm.</description>
     </item>
     
     <item>
       <title>How to see space occupied by directories in Linux Terminal</title>
-      <link>http://andreaidini.github.io/wilt/2014/03/18/how-to-see-space-occupied-by-directories-in-linux-terminal/</link>
+      <link>https://andreaidini.github.io/wilt/2014/03/18/how-to-see-space-occupied-by-directories-in-linux-terminal/</link>
       <pubDate>Tue, 18 Mar 2014 13:48:16 +0000</pubDate>
       
-      <guid>http://andreaidini.github.io/wilt/2014/03/18/how-to-see-space-occupied-by-directories-in-linux-terminal/</guid>
+      <guid>https://andreaidini.github.io/wilt/2014/03/18/how-to-see-space-occupied-by-directories-in-linux-terminal/</guid>
       <description>I learn and forget every tuesday afternoon the power of du and other Linux command line hacks. Hopefully writing this it will stick better in my brain lacking of real estate&amp;hellip;
 To visualize the dimension of directories without opening the whole tree (and relative nests), the useful command is
  du -hs */
@@ -96,10 +96,10 @@ To visualize the dimension of directories without opening the whole tree (and re
     
     <item>
       <title>Do not trust Google Analytics</title>
-      <link>http://andreaidini.github.io/wilt/2014/03/15/do-not-trust-google-analytics/</link>
+      <link>https://andreaidini.github.io/wilt/2014/03/15/do-not-trust-google-analytics/</link>
       <pubDate>Sat, 15 Mar 2014 08:41:41 +0000</pubDate>
       
-      <guid>http://andreaidini.github.io/wilt/2014/03/15/do-not-trust-google-analytics/</guid>
+      <guid>https://andreaidini.github.io/wilt/2014/03/15/do-not-trust-google-analytics/</guid>
       <description>I learned that Google needs some hours in order to track your website in Analytics.
 Even if in the &amp;ldquo;Tracking Code&amp;rdquo; section it says &amp;ldquo;Tracking Code is not Working&amp;rdquo; reporting a check performed in a given minute, actually sometimes you just have to wait some hours to start &amp;ldquo;Receiving Data&amp;rdquo; without furthermore tinkering with your web code.
 So just check the source code of your page, and if the Google Analytics snippet is included just give Google the time to update the tracking, without trusting too much the checking section.</description>

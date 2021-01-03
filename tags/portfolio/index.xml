@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>portfolio on WILT</title>
-    <link>http://andreaidini.github.io/wilt/tags/portfolio/</link>
+    <link>https://andreaidini.github.io/wilt/tags/portfolio/</link>
     <description>Recent content in portfolio on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2015 21:54:40 +0000</lastBuildDate><atom:link href="http://andreaidini.github.io/wilt/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 May 2015 21:54:40 +0000</lastBuildDate><atom:link href="https://andreaidini.github.io/wilt/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Value at Risk on expected return</title>
-      <link>http://andreaidini.github.io/wilt/2015/05/10/value-on-expected-return/</link>
+      <link>https://andreaidini.github.io/wilt/2015/05/10/value-on-expected-return/</link>
       <pubDate>Sun, 10 May 2015 21:54:40 +0000</pubDate>
       
-      <guid>http://andreaidini.github.io/wilt/2015/05/10/value-on-expected-return/</guid>
+      <guid>https://andreaidini.github.io/wilt/2015/05/10/value-on-expected-return/</guid>
       <description>Value at Risk on expected return is the lower bound for the loss in an investement respect to a probability.
 Is a way to estimating losses probabilities in terms of value, instead of standard deviation. E.g. in the case of , means that the investor have a probability  of loosing € or more, investing € on the portfolio .
 Considering the system ergodic and thus all the variances of the titles summing up coherently to for a variance of the portfolio distributed within the normal distribution, this is simply calculated considering the quantile (the value of the distribution corresponding to a certain fraction  of probability) .</description>
@@ -20,10 +20,10 @@ Considering the system ergodic and thus all the variances of the titles summing 
     
     <item>
       <title>Optimizing: the Minimum Variance (or Maximum Return) Portfolio example</title>
-      <link>http://andreaidini.github.io/wilt/2015/05/05/optimizing-the-portfolio/</link>
+      <link>https://andreaidini.github.io/wilt/2015/05/05/optimizing-the-portfolio/</link>
       <pubDate>Tue, 05 May 2015 21:16:59 +0000</pubDate>
       
-      <guid>http://andreaidini.github.io/wilt/2015/05/05/optimizing-the-portfolio/</guid>
+      <guid>https://andreaidini.github.io/wilt/2015/05/05/optimizing-the-portfolio/</guid>
       <description>The aim is the optimization either by maximizing total return (or minimizing risk), in keeping with the constraints of normalization for a given risk (or return).
 Thus Lagrange method is perfectly suited for the job.
 For minimizing risk, respect to a desired total return , one must consider the function of total risk
@@ -32,10 +32,10 @@ For minimizing risk, respect to a desired total return , one must consider the f
     
     <item>
       <title>Investment Portfolio Basics</title>
-      <link>http://andreaidini.github.io/wilt/2015/05/03/investment-portfolio-basics/</link>
+      <link>https://andreaidini.github.io/wilt/2015/05/03/investment-portfolio-basics/</link>
       <pubDate>Sun, 03 May 2015 19:40:48 +0000</pubDate>
       
-      <guid>http://andreaidini.github.io/wilt/2015/05/03/investment-portfolio-basics/</guid>
+      <guid>https://andreaidini.github.io/wilt/2015/05/03/investment-portfolio-basics/</guid>
       <description>Considering  the vector of assets i weight in the portfolio (with constrain ) and  the vector of expect returns on the corresponding assets.
 Considering  the volatility of the given asset, corresponding to the standard deviation of the normal distribution of returns (and thus  the risk), and  the correlation between assets.
 The Total Return is given by:
