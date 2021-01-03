@@ -182,9 +182,9 @@ For this reason the first index I tried to build out of these data is simply giv
 <span><img src="/wilt/wp-content/plugins/latex/cache/tex_5b9d728fda928ca196d7ed12a660b2c4.gif"/></span>.
 
 The index <span><img src="/wilt/wp-content/plugins/latex/cache/tex_9dd4e461268c8034f5c8564e155c67a6.gif"/></span> follows the OLS,
-
-<span><img src="/wilt/wp-content/plugins/latex/cache/tex_a9467f895d9dcf1d7af6729271da07fe.gif"/></span>
-
+$$
+x = \textrm{sign} (m - \langle m \rangle) \frac{(m - \langle m \rangle)^2}{\langle \sigma_m \rangle^2} + \textrm{sign} (q -\langle q \rangle) \frac{(q - \langle q \rangle)^2}{\langle \sigma_q \rangle^2} -\frac{(\sigma_m - \langle \sigma_m \rangle)^2}{\langle \sigma_m \rangle^2} - \frac{(\sigma_q-\langle \sigma_q \rangle)^2}{\langle \sigma_q \rangle^2} ,
+$$
 where <span><img src="/wilt/wp-content/plugins/latex/cache/tex_9f2389478742ec98f594ef69e07dc56b.gif"/></span> indicates the average value of the slope across the dataset.
 
 This model is not deprived of defects and deficiencies, but is good first approximation and try to this dataset yielding sensible results over a vast geographical area.
