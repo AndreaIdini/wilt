@@ -1,6 +1,6 @@
 #baseurl: https://andreaidini.github.io/wilt/
 #baseurl: https://www.phme.it/wilt/
-baseurl: https://wilt.phme.it
+baseurl: wilt.phme.it
 #baseurl: http://localhost:1313
 languageCode: en-us
 #theme: hugo-theme-stack
