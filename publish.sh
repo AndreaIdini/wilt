@@ -22,3 +22,6 @@ mv ../public/* .
 git add .
 git commit -am "Automatic commit from script"
 git push
+
+git checkout main
+
