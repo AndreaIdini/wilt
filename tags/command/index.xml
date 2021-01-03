@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>command on WILT</title>
-    <link>https://andreaidini.github.io/wilt/tags/command/</link>
+    <link>https://www.phme.it/wilt/tags/command/</link>
     <description>Recent content in command on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Mar 2014 13:48:16 +0000</lastBuildDate><atom:link href="https://andreaidini.github.io/wilt/tags/command/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Mar 2014 13:48:16 +0000</lastBuildDate><atom:link href="https://www.phme.it/wilt/tags/command/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to see space occupied by directories in Linux Terminal</title>
-      <link>https://andreaidini.github.io/wilt/2014/03/18/how-to-see-space-occupied-by-directories-in-linux-terminal/</link>
+      <link>https://www.phme.it/wilt/2014/03/18/how-to-see-space-occupied-by-directories-in-linux-terminal/</link>
       <pubDate>Tue, 18 Mar 2014 13:48:16 +0000</pubDate>
       
-      <guid>https://andreaidini.github.io/wilt/2014/03/18/how-to-see-space-occupied-by-directories-in-linux-terminal/</guid>
+      <guid>https://www.phme.it/wilt/2014/03/18/how-to-see-space-occupied-by-directories-in-linux-terminal/</guid>
       <description>I learn and forget every tuesday afternoon the power of du and other Linux command line hacks. Hopefully writing this it will stick better in my brain lacking of real estate&amp;hellip;
 To visualize the dimension of directories without opening the whole tree (and relative nests), the useful command is
  du -hs */

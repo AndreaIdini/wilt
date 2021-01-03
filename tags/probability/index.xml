@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>probability on WILT</title>
-    <link>https://andreaidini.github.io/wilt/tags/probability/</link>
+    <link>https://www.phme.it/wilt/tags/probability/</link>
     <description>Recent content in probability on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jan 2017 17:58:14 +0000</lastBuildDate><atom:link href="https://andreaidini.github.io/wilt/tags/probability/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jan 2017 17:58:14 +0000</lastBuildDate><atom:link href="https://www.phme.it/wilt/tags/probability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The magical mystery world of nuclear reactions exposed.</title>
-      <link>https://andreaidini.github.io/wilt/2017/01/19/226/</link>
+      <link>https://www.phme.it/wilt/2017/01/19/226/</link>
       <pubDate>Thu, 19 Jan 2017 17:58:14 +0000</pubDate>
       
-      <guid>https://andreaidini.github.io/wilt/2017/01/19/226/</guid>
+      <guid>https://www.phme.it/wilt/2017/01/19/226/</guid>
       <description>Nuclear wave function in function of  for the proton  state, obtained by diagonalizing the self energy in the exact continuum used above. The first eigenvalue at -23.97 MeV (solid red line) is compared by the corresponding  harmonic oscillator state multiplied by the square root of the spectroscopic factor (dashed red line), the second eigenvalue at -2.85 MeV (solid blue line) is similarly compared with  harmonic oscillator state (dashed blue line).</description>
     </item>
     
     <item>
       <title>Fun with conditional probability</title>
-      <link>https://andreaidini.github.io/wilt/2015/05/26/fun-with-conditional-probability/</link>
+      <link>https://www.phme.it/wilt/2015/05/26/fun-with-conditional-probability/</link>
       <pubDate>Tue, 26 May 2015 21:05:56 +0000</pubDate>
       
-      <guid>https://andreaidini.github.io/wilt/2015/05/26/fun-with-conditional-probability/</guid>
+      <guid>https://www.phme.it/wilt/2015/05/26/fun-with-conditional-probability/</guid>
       <description>&lt;p&gt;Bayesian concept of probability is linked not with frequency, but with state of information. The processing of this information proceeds in a propositional sense. In fact there are semantic work related to the use of Bayesian statistic as foundation for programming languages (&lt;a href=&#34;http://bayesianlogic.github.io/&#34;&gt;BLOG&lt;/a&gt;), First kind logic (&lt;a href=&#34;http://seor.gmu.edu/~klaskey/papers/Laskey_MEBN_Logic.pdf&#34;&gt;MEBN&lt;/a&gt; , also look at the fun &lt;a href=&#34;http://arxiv.org/ftp/arxiv/papers/1207/1207.1354.pdf&#34;&gt;Of Starships and Klingon&lt;/a&gt;) and thus the foundation principles of Network-Centric warfare and commerce.&lt;/p&gt;
 &lt;p&gt;Property of Baysian calculation of proabability are sometimes difficult to grasp and very counter intuitive, interesting consideration can hide behind apparently trivial formulas that can help to answer questions like: &lt;em&gt;If you know your neighbour has a son born on Tuesday, which is the probability your neighbour has two sons?&lt;/em&gt;&lt;/p&gt;</description>
     </item>
