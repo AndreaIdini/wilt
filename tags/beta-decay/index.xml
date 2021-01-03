@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>beta decay on WILT</title>
-    <link>wilt.phme.it/tags/beta-decay/</link>
+    <link>http://wilt.phme.it/tags/beta-decay/</link>
     <description>Recent content in beta decay on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Aug 2014 14:33:09 +0000</lastBuildDate><atom:link href="wilt.phme.it/tags/beta-decay/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Aug 2014 14:33:09 +0000</lastBuildDate><atom:link href="http://wilt.phme.it/tags/beta-decay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beta decay logft</title>
-      <link>wilt.phme.it/2014/08/06/beta-decay-logft/</link>
+      <link>http://wilt.phme.it/2014/08/06/beta-decay-logft/</link>
       <pubDate>Wed, 06 Aug 2014 14:33:09 +0000</pubDate>
       
-      <guid>wilt.phme.it/2014/08/06/beta-decay-logft/</guid>
+      <guid>http://wilt.phme.it/2014/08/06/beta-decay-logft/</guid>
       <description>The comparative half life ft is useful to compare the strength of the  and electron-capture processes over different nuclei. -decay half lives can span several orders of magnitude, from fraction of seconds to thousands of time the age of the universe. Some of these striking differences are due to relatively trivial energetic conditions, but the more interesting from a nuclear structure point of view are due to the wavefunction superposition and the angular momentum coupling.</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>practice on WILT</title>
-    <link>wilt.phme.it/tags/practice/</link>
+    <link>http://wilt.phme.it/tags/practice/</link>
     <description>Recent content in practice on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2015 21:34:32 +0000</lastBuildDate><atom:link href="wilt.phme.it/tags/practice/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 May 2015 21:34:32 +0000</lastBuildDate><atom:link href="http://wilt.phme.it/tags/practice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Practice of Programming</title>
-      <link>wilt.phme.it/2015/05/18/the-practice-of-programming/</link>
+      <link>http://wilt.phme.it/2015/05/18/the-practice-of-programming/</link>
       <pubDate>Mon, 18 May 2015 21:34:32 +0000</pubDate>
       
-      <guid>wilt.phme.it/2015/05/18/the-practice-of-programming/</guid>
+      <guid>http://wilt.phme.it/2015/05/18/the-practice-of-programming/</guid>
       <description>&lt;p&gt;I started reading &amp;ldquo;The Practice of Programming&amp;rdquo; by Kernigan and Pike.&lt;/p&gt;
 &lt;p&gt;The book hinges on the concepts of &lt;em&gt;simplicity&lt;/em&gt;, &lt;em&gt;clarity&lt;/em&gt; and &lt;em&gt;generality&lt;/em&gt; as foundation of a good code. Eventually &lt;em&gt;automation&lt;/em&gt; can bring something to the table generating code from algorithms.&lt;/p&gt;
 &lt;p&gt;It starts by the usual &amp;ldquo;obvious&amp;rdquo; remarks about style:&lt;/p&gt;</description>

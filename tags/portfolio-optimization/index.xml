@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>portfolio optimization on WILT</title>
-    <link>wilt.phme.it/tags/portfolio-optimization/</link>
+    <link>http://wilt.phme.it/tags/portfolio-optimization/</link>
     <description>Recent content in portfolio optimization on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2015 21:16:59 +0000</lastBuildDate><atom:link href="wilt.phme.it/tags/portfolio-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 May 2015 21:16:59 +0000</lastBuildDate><atom:link href="http://wilt.phme.it/tags/portfolio-optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimizing: the Minimum Variance (or Maximum Return) Portfolio example</title>
-      <link>wilt.phme.it/2015/05/05/optimizing-the-portfolio/</link>
+      <link>http://wilt.phme.it/2015/05/05/optimizing-the-portfolio/</link>
       <pubDate>Tue, 05 May 2015 21:16:59 +0000</pubDate>
       
-      <guid>wilt.phme.it/2015/05/05/optimizing-the-portfolio/</guid>
+      <guid>http://wilt.phme.it/2015/05/05/optimizing-the-portfolio/</guid>
       <description>The aim is the optimization either by maximizing total return (or minimizing risk), in keeping with the constraints of normalization for a given risk (or return).
 Thus Lagrange method is perfectly suited for the job.
 For minimizing risk, respect to a desired total return , one must consider the function of total risk
@@ -21,10 +21,10 @@ For minimizing risk, respect to a desired total return , one must consider the f
     
     <item>
       <title>Investment Portfolio Basics</title>
-      <link>wilt.phme.it/2015/05/03/investment-portfolio-basics/</link>
+      <link>http://wilt.phme.it/2015/05/03/investment-portfolio-basics/</link>
       <pubDate>Sun, 03 May 2015 19:40:48 +0000</pubDate>
       
-      <guid>wilt.phme.it/2015/05/03/investment-portfolio-basics/</guid>
+      <guid>http://wilt.phme.it/2015/05/03/investment-portfolio-basics/</guid>
       <description>Considering  the vector of assets i weight in the portfolio (with constrain ) and  the vector of expect returns on the corresponding assets.
 Considering  the volatility of the given asset, corresponding to the standard deviation of the normal distribution of returns (and thus  the risk), and  the correlation between assets.
 The Total Return is given by:

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>definition on WILT</title>
-    <link>wilt.phme.it/tags/definition/</link>
+    <link>http://wilt.phme.it/tags/definition/</link>
     <description>Recent content in definition on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2015 20:10:14 +0000</lastBuildDate><atom:link href="wilt.phme.it/tags/definition/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 May 2015 20:10:14 +0000</lastBuildDate><atom:link href="http://wilt.phme.it/tags/definition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C# Lists and Dictionary</title>
-      <link>wilt.phme.it/2015/05/31/c-lists-and-dictionary/</link>
+      <link>http://wilt.phme.it/2015/05/31/c-lists-and-dictionary/</link>
       <pubDate>Sun, 31 May 2015 20:10:14 +0000</pubDate>
       
-      <guid>wilt.phme.it/2015/05/31/c-lists-and-dictionary/</guid>
+      <guid>http://wilt.phme.it/2015/05/31/c-lists-and-dictionary/</guid>
       <description>In C# there are several key differences to C++. Microsoft Website spells them all: https://msdn.microsoft.com/en-us/magazine/cc301520.aspx
 Garbage collector instead of deconstructors providing a different approach to micromenagment of memory and lists, jagged arrays and dynamic memory allocation are already available into the language. It supports also negative index to counting from the last element, similarly to Python.
 About lists instead of the usual self-made textbook-example class, there are specific embedded classes for Lists and Dictionaries.</description>
@@ -20,20 +20,20 @@ About lists instead of the usual self-made textbook-example class, there are spe
     
     <item>
       <title>Fun with conditional probability</title>
-      <link>wilt.phme.it/2015/05/26/fun-with-conditional-probability/</link>
+      <link>http://wilt.phme.it/2015/05/26/fun-with-conditional-probability/</link>
       <pubDate>Tue, 26 May 2015 21:05:56 +0000</pubDate>
       
-      <guid>wilt.phme.it/2015/05/26/fun-with-conditional-probability/</guid>
+      <guid>http://wilt.phme.it/2015/05/26/fun-with-conditional-probability/</guid>
       <description>&lt;p&gt;Bayesian concept of probability is linked not with frequency, but with state of information. The processing of this information proceeds in a propositional sense. In fact there are semantic work related to the use of Bayesian statistic as foundation for programming languages (&lt;a href=&#34;http://bayesianlogic.github.io/&#34;&gt;BLOG&lt;/a&gt;), First kind logic (&lt;a href=&#34;http://seor.gmu.edu/~klaskey/papers/Laskey_MEBN_Logic.pdf&#34;&gt;MEBN&lt;/a&gt; , also look at the fun &lt;a href=&#34;http://arxiv.org/ftp/arxiv/papers/1207/1207.1354.pdf&#34;&gt;Of Starships and Klingon&lt;/a&gt;) and thus the foundation principles of Network-Centric warfare and commerce.&lt;/p&gt;
 &lt;p&gt;Property of Baysian calculation of proabability are sometimes difficult to grasp and very counter intuitive, interesting consideration can hide behind apparently trivial formulas that can help to answer questions like: &lt;em&gt;If you know your neighbour has a son born on Tuesday, which is the probability your neighbour has two sons?&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Value at Risk on expected return</title>
-      <link>wilt.phme.it/2015/05/10/value-on-expected-return/</link>
+      <link>http://wilt.phme.it/2015/05/10/value-on-expected-return/</link>
       <pubDate>Sun, 10 May 2015 21:54:40 +0000</pubDate>
       
-      <guid>wilt.phme.it/2015/05/10/value-on-expected-return/</guid>
+      <guid>http://wilt.phme.it/2015/05/10/value-on-expected-return/</guid>
       <description>Value at Risk on expected return is the lower bound for the loss in an investement respect to a probability.
 Is a way to estimating losses probabilities in terms of value, instead of standard deviation. E.g. in the case of , means that the investor have a probability  of loosing € or more, investing € on the portfolio .
 Considering the system ergodic and thus all the variances of the titles summing up coherently to for a variance of the portfolio distributed within the normal distribution, this is simply calculated considering the quantile (the value of the distribution corresponding to a certain fraction  of probability) .</description>
@@ -41,10 +41,10 @@ Considering the system ergodic and thus all the variances of the titles summing 
     
     <item>
       <title>No-Arbitrage condition</title>
-      <link>wilt.phme.it/2015/05/06/no-arbitrage-condition/</link>
+      <link>http://wilt.phme.it/2015/05/06/no-arbitrage-condition/</link>
       <pubDate>Wed, 06 May 2015 21:03:14 +0000</pubDate>
       
-      <guid>wilt.phme.it/2015/05/06/no-arbitrage-condition/</guid>
+      <guid>http://wilt.phme.it/2015/05/06/no-arbitrage-condition/</guid>
       <description>No Arbitrage states the inadmissibility of Free Lunch in applying a structure (metric?) to the prices.
 Considering a title with price  and cash flow , or every time , where  it is the discretized time .
 Then we have the two No-Arbitrage condition:
@@ -53,10 +53,10 @@ Then we have the two No-Arbitrage condition:
     
     <item>
       <title>Investment Portfolio Basics</title>
-      <link>wilt.phme.it/2015/05/03/investment-portfolio-basics/</link>
+      <link>http://wilt.phme.it/2015/05/03/investment-portfolio-basics/</link>
       <pubDate>Sun, 03 May 2015 19:40:48 +0000</pubDate>
       
-      <guid>wilt.phme.it/2015/05/03/investment-portfolio-basics/</guid>
+      <guid>http://wilt.phme.it/2015/05/03/investment-portfolio-basics/</guid>
       <description>Considering  the vector of assets i weight in the portfolio (with constrain ) and  the vector of expect returns on the corresponding assets.
 Considering  the volatility of the given asset, corresponding to the standard deviation of the normal distribution of returns (and thus  the risk), and  the correlation between assets.
 The Total Return is given by:

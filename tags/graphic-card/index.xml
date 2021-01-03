@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>graphic card on WILT</title>
-    <link>wilt.phme.it/tags/graphic-card/</link>
+    <link>http://wilt.phme.it/tags/graphic-card/</link>
     <description>Recent content in graphic card on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Mar 2014 19:54:25 +0000</lastBuildDate><atom:link href="wilt.phme.it/tags/graphic-card/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Mar 2014 19:54:25 +0000</lastBuildDate><atom:link href="http://wilt.phme.it/tags/graphic-card/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MacPro&#39;s FirePro cards are actually a Radeon?</title>
-      <link>wilt.phme.it/2014/03/17/macpros-firepro-cards-are-actually-a-radeon/</link>
+      <link>http://wilt.phme.it/2014/03/17/macpros-firepro-cards-are-actually-a-radeon/</link>
       <pubDate>Mon, 17 Mar 2014 19:54:25 +0000</pubDate>
       
-      <guid>wilt.phme.it/2014/03/17/macpros-firepro-cards-are-actually-a-radeon/</guid>
+      <guid>http://wilt.phme.it/2014/03/17/macpros-firepro-cards-are-actually-a-radeon/</guid>
       <description>&lt;p&gt;Today I learned about the new MacPro (2013 model) and the associated D300, D500, D700 graphic cards, that are compared over and over with Firepro W series (W7000, W8000 and W9000) by professional reviewers, thus making the MacPro 3500$ and rising price tag sound like a gift (FirePro W cards go from 500 to 1500 $ each).&lt;/p&gt;
 &lt;p&gt;To my knowledge, the difference between professional (ATI FirePro and NVidia Quadro) and consumer (ATI Radeon and NVidia GeForce) graphic cards is not in number or clock of processors or memory (the architecture is exactly the same, for example, for ATI Radeon 7970 and Firepro W9000 and D700 but the first cost one third of the second for the reason below), but :&lt;/p&gt;</description>
     </item>
