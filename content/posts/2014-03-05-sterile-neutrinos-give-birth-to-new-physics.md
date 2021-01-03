@@ -20,7 +20,8 @@ Today I learned something more about sterile neutrinos, and [the latest advancem
 
 I was searching for something extrordinary to learn to open the blog, and here it is, what can be the most important discovery since since Quantum Mechanics.
 
-Sterile neutrinos are supposed particles (as once were the electron neutrinos) that we don't know yet. The neutrinos we know are the products of weak interaction decay, and thus are associated with a reference lepton, <span class='MathJax_Preview'><img src="/wilt/wp-content/plugins/latex/cache/tex_bacfee723a409249dcb05506ac5f52db.gif' style=' ' class='tex'" /></span>.
+Sterile neutrinos are supposed particles (as once were the electron neutrinos) that we don't know yet. The neutrinos we know are the products of weak interaction decay, and thus are associated with a reference lepton, 
+<span><img src="/wilt/wp-content/plugins/latex/cache/tex_bacfee723a409249dcb05506ac5f52db.gif"/></span>.
 
 We can try to imagine that, if unknown particles exists, they are the product of the gravitational field and/or another force that we don't know, since the other forces we know of (strong, electromagnetic and weak) are strong enough that we have the confidence to be able to see their manifestations.
 
