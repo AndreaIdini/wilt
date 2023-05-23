@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on WILT</title>
-    <link>http://wilt.phme.it/categories/technology/</link>
+    <link>https://andreaidini.github.io/wilt/categories/technology/</link>
     <description>Recent content in Technology on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 23:30:17 +0000</lastBuildDate><atom:link href="http://wilt.phme.it/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jun 2017 23:30:17 +0000</lastBuildDate><atom:link href="https://andreaidini.github.io/wilt/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching computer to read with linear regression</title>
-      <link>http://wilt.phme.it/2017/06/23/teaching-computer-to-read-with-linear-regression/</link>
+      <link>https://andreaidini.github.io/wilt/2017/06/23/teaching-computer-to-read-with-linear-regression/</link>
       <pubDate>Thu, 22 Jun 2017 23:30:17 +0000</pubDate>
       
-      <guid>http://wilt.phme.it/2017/06/23/teaching-computer-to-read-with-linear-regression/</guid>
+      <guid>https://andreaidini.github.io/wilt/2017/06/23/teaching-computer-to-read-with-linear-regression/</guid>
       <description>In the first part of the file tutorial2.py of repository Tensorflow in my github, you have the commented version of the MINST tutorial for experts in Tensorflow.
 Tensorflow is an opensource API for several languages that act as frontend for a machine learning backend that is quite flexible.
 What I was surprised for is the result of this first small exercise, that is: you take the pixel of the MINST package for character recognition traning.</description>
@@ -20,10 +20,10 @@ What I was surprised for is the result of this first small exercise, that is: yo
     
     <item>
       <title>Dynamic mapping with Shapefiles and python</title>
-      <link>http://wilt.phme.it/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</link>
+      <link>https://andreaidini.github.io/wilt/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</link>
       <pubDate>Sat, 06 May 2017 15:50:55 +0000</pubDate>
       
-      <guid>http://wilt.phme.it/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</guid>
+      <guid>https://andreaidini.github.io/wilt/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</guid>
       <description>In a two days coding challenge over workers day holiday, I decided to play with maps as means to plot information. What I decided to are use are the widely available shapefiles and python matplotlib packages, using mainly pandas and numpy to analyse data.
 You can find everything in this git repository.
 First of all you can start familiarising with shapefiles by plotting the pure patches, as in function mP in mapPlot.</description>
@@ -31,20 +31,20 @@ First of all you can start familiarising with shapefiles by plotting the pure pa
     
     <item>
       <title>The new prodigy behind Google translate</title>
-      <link>http://wilt.phme.it/2017/02/13/the-new-prodigy-behind-google-translate/</link>
+      <link>https://andreaidini.github.io/wilt/2017/02/13/the-new-prodigy-behind-google-translate/</link>
       <pubDate>Mon, 13 Feb 2017 18:12:41 +0000</pubDate>
       
-      <guid>http://wilt.phme.it/2017/02/13/the-new-prodigy-behind-google-translate/</guid>
+      <guid>https://andreaidini.github.io/wilt/2017/02/13/the-new-prodigy-behind-google-translate/</guid>
       <description>I read a lot of misconceptions this morning related to this article regarding Google Translate. Is not properly fresh news but this morning in my telegram group @scienza, this other popularization article has been posted that completely misunderstood the premises of the original academic article (also the so-called informed comments are not really , so I decided to try to keep the record straight and offer a question.
 In the article the approach is referred as a multitasking learning framework</description>
     </item>
     
     <item>
       <title>Macbook Pro 2016</title>
-      <link>http://wilt.phme.it/2016/10/28/macbook-pro-2016/</link>
+      <link>https://andreaidini.github.io/wilt/2016/10/28/macbook-pro-2016/</link>
       <pubDate>Fri, 28 Oct 2016 17:19:42 +0000</pubDate>
       
-      <guid>http://wilt.phme.it/2016/10/28/macbook-pro-2016/</guid>
+      <guid>https://andreaidini.github.io/wilt/2016/10/28/macbook-pro-2016/</guid>
       <description>Macbook Pro 2016 update sports still LPDDR3 RAM memory, in 8GB or 16GB size, and 1866 or 2133 MHz CL11 or CL12.
 Frankly I&amp;rsquo;m furious that a 2300£ (starting from) laptop still uses a 9 years old standard, while a newer one is available since more than a year.
 Already the Skylake processor is a setback, but the DDR3 memory on a Intel graphics laptop is practically a scam.
@@ -53,20 +53,20 @@ Dell XPS15 offers better specs since June, in roughly the same size.</descriptio
     
     <item>
       <title>MacPro&#39;s FirePro cards are actually a Radeon?</title>
-      <link>http://wilt.phme.it/2014/03/17/macpros-firepro-cards-are-actually-a-radeon/</link>
+      <link>https://andreaidini.github.io/wilt/2014/03/17/macpros-firepro-cards-are-actually-a-radeon/</link>
       <pubDate>Mon, 17 Mar 2014 19:54:25 +0000</pubDate>
       
-      <guid>http://wilt.phme.it/2014/03/17/macpros-firepro-cards-are-actually-a-radeon/</guid>
+      <guid>https://andreaidini.github.io/wilt/2014/03/17/macpros-firepro-cards-are-actually-a-radeon/</guid>
       <description>&lt;p&gt;Today I learned about the new MacPro (2013 model) and the associated D300, D500, D700 graphic cards, that are compared over and over with Firepro W series (W7000, W8000 and W9000) by professional reviewers, thus making the MacPro 3500$ and rising price tag sound like a gift (FirePro W cards go from 500 to 1500 $ each).&lt;/p&gt;
 &lt;p&gt;To my knowledge, the difference between professional (ATI FirePro and NVidia Quadro) and consumer (ATI Radeon and NVidia GeForce) graphic cards is not in number or clock of processors or memory (the architecture is exactly the same, for example, for ATI Radeon 7970 and Firepro W9000 and D700 but the first cost one third of the second for the reason below), but :&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Speed of a V2 Rocket.</title>
-      <link>http://wilt.phme.it/2014/03/13/the-speed-of-a-v2-rocket/</link>
+      <link>https://andreaidini.github.io/wilt/2014/03/13/the-speed-of-a-v2-rocket/</link>
       <pubDate>Thu, 13 Mar 2014 16:38:16 +0000</pubDate>
       
-      <guid>http://wilt.phme.it/2014/03/13/the-speed-of-a-v2-rocket/</guid>
+      <guid>https://andreaidini.github.io/wilt/2014/03/13/the-speed-of-a-v2-rocket/</guid>
       <description>Today I learned that the a V-2 rocket was much faster than the speed of sound, in fact the max speed was more around Mach-4 (5,760 km/h to be more precise, according to wikipedia), and flied using a water-ethanol compund and liquid oxygen (!).
 Some survivors were in fact reporting the hitting of the blast in utter silence followed by the sonic boom and the sound of hell breaking loose.</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maps on WILT</title>
-    <link>http://wilt.phme.it/tags/maps/</link>
+    <link>https://andreaidini.github.io/wilt/tags/maps/</link>
     <description>Recent content in Maps on WILT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 May 2017 15:50:55 +0000</lastBuildDate><atom:link href="http://wilt.phme.it/tags/maps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 May 2017 15:50:55 +0000</lastBuildDate><atom:link href="https://andreaidini.github.io/wilt/tags/maps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dynamic mapping with Shapefiles and python</title>
-      <link>http://wilt.phme.it/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</link>
+      <link>https://andreaidini.github.io/wilt/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</link>
       <pubDate>Sat, 06 May 2017 15:50:55 +0000</pubDate>
       
-      <guid>http://wilt.phme.it/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</guid>
+      <guid>https://andreaidini.github.io/wilt/2017/05/06/dynamic-mapping-with-shapefiles-and-python/</guid>
       <description>In a two days coding challenge over workers day holiday, I decided to play with maps as means to plot information. What I decided to are use are the widely available shapefiles and python matplotlib packages, using mainly pandas and numpy to analyse data.
 You can find everything in this git repository.
 First of all you can start familiarising with shapefiles by plotting the pure patches, as in function mP in mapPlot.</description>
